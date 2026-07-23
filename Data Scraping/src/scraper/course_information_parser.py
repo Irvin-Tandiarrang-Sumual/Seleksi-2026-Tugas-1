@@ -324,7 +324,16 @@ class CourseInformationParser:
             if not line_clean or len(line_clean) < 2:
                 continue
 
-            parts = re.split(r"/|;|,|&|\bdan\b|\band\b", line_clean)
+            line_no_titles = re.sub(
+                r',?\s*\b(prof|dr|eng|ir|dr-ing|st|mt|m\.t|s\.t|m\.sc|m\.s\.c|s\.sc|ph\.?d|m\.com|b\.sc|m\.eng)\b\.?',
+                ' ',
+                line_clean,
+                flags=re.IGNORECASE
+            )
+            line_no_titles = re.sub(r'^[,\.\s/]+|[,\.\s/]+$', '', line_no_titles)
+            line_no_titles = " ".join(line_no_titles.split()).strip()
+
+            parts = re.split(r"/|;|,|&|\bdan\b|\band\b", line_no_titles)
             for part in parts:
                 part_clean = part.strip()
                 if not part_clean:
