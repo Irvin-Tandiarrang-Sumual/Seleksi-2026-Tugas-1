@@ -324,7 +324,7 @@ class CourseInformationParser:
             if not line_clean or len(line_clean) < 2:
                 continue
 
-            parts = re.split(r"/|;|\bdan\b", line_clean)
+            parts = re.split(r"/|;|,|&|\bdan\b|\band\b", line_clean)
             for part in parts:
                 part_clean = part.strip()
                 if not part_clean:
