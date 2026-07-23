@@ -196,8 +196,56 @@ class CourseInformationParser:
         if not instructors_map:
             instructors_map = self._apply_fallback_instructors()
 
+        def _strip_title(n: str) -> str:
+            parts = n.split(",")
+            base = parts[0]
+            base = re.sub(
+                r'\b(prof|dr|eng|ir|dr-ing|st|mt|m\.t|s\.t|dr\.?|ir\.?|prof\.?|drs\.?|dra\.?|ph\.?d\.?)\b',
+                ' ',
+                base,
+                flags=re.IGNORECASE
+            )
+            base = re.sub(r'[^a-zA-Z\s]', ' ', base)
+            base = re.sub(r'\s+', ' ', base)
+            return base.strip().title()
+
+        raw_names = list(instructors_map.keys())
+        cleaned_to_raws = {}
+        for r_name in raw_names:
+            cleaned = _strip_title(r_name)
+            if cleaned:
+                cleaned_to_raws.setdefault(cleaned, []).append(r_name)
+
+        sorted_cleaned = sorted(cleaned_to_raws.keys(), key=len, reverse=True)
+        cleaned_to_normalized = {}
+        for name in sorted_cleaned:
+            matched_longer = None
+            for longer_name in cleaned_to_normalized.values():
+                words = name.lower().split()
+                pattern = r'\b' + r'\b.*\b'.join(map(re.escape, words)) + r'\b'
+                if re.search(pattern, longer_name.lower()):
+                    matched_longer = longer_name
+                    break
+            if matched_longer:
+                cleaned_to_normalized[name] = matched_longer
+            else:
+                cleaned_to_normalized[name] = name
+
+        raw_to_normalized = {}
+        for cleaned, raws in cleaned_to_raws.items():
+            normalized = cleaned_to_normalized[cleaned]
+            for r in raws:
+                raw_to_normalized[r] = normalized
+
+        normalized_instructors_map = {}
+        for raw_name, secs in instructors_map.items():
+            norm_name = raw_to_normalized.get(raw_name, _strip_title(raw_name))
+            if norm_name not in normalized_instructors_map:
+                normalized_instructors_map[norm_name] = set()
+            normalized_instructors_map[norm_name].update(secs)
+
         instructors_list = []
-        for name, secs in instructors_map.items():
+        for name, secs in normalized_instructors_map.items():
             instructors_list.append(Instructor(name=name, sections=sorted(list(secs))))
 
         return instructors_list

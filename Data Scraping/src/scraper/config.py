@@ -10,7 +10,7 @@ class CourseConfig:
     folder_names: List[str]
 
 
-MIN_YEAR: int = 2016
+MIN_YEAR: int = 2020
 MAX_YEAR: int = 2026
 
 DATA_OUTPUT_DIR: str = "data"

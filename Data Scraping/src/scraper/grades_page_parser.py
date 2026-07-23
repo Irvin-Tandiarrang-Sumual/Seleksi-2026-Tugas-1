@@ -53,6 +53,7 @@ class GradePageParser:
         cleaned = re.sub(r"\b135\d{5}\b", " ", cleaned)
         cleaned = re.sub(r"\b\d{8,}\b", " ", cleaned)
         cleaned = re.sub(r"[()\[\]:]", "", cleaned)
+        cleaned = re.sub(r"[^a-zA-Z\s]", " ", cleaned)
         cleaned = re.sub(r"\s+", " ", cleaned).strip()
 
         if (
@@ -62,7 +63,7 @@ class GradePageParser:
         ):
             return None
 
-        return cleaned
+        return cleaned.title()
 
     def _expand_row_cells(self, row: Tag) -> List[str]:
         expanded = []
@@ -290,9 +291,14 @@ class GradePageParser:
                     final_grade = text_upper
                     break
 
+        cleaned_student_name = re.sub(r"[^a-zA-Z\s]", " ", name_val)
+        cleaned_student_name = re.sub(r"\s+", " ", cleaned_student_name).strip().title()
+        if not cleaned_student_name:
+            cleaned_student_name = "Tanpa Nama"
+
         return StudentGrade(
             student_number=nim_val,
-            name=name_val,
+            name=cleaned_student_name,
             section_code=section_code,
             final_grade=final_grade,
             components=components,
