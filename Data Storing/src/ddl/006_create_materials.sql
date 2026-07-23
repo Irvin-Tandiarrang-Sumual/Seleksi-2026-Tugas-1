@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS materials;
+
+CREATE TABLE materials (
+    id INT AUTO_INCREMENT,
+    url VARCHAR(500) UNIQUE NOT NULL,
+    title VARCHAR(1000) NOT NULL,
+
+    PRIMARY KEY (id)
+);

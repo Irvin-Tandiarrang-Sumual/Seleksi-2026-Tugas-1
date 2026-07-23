@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS assignments;
+
+CREATE TABLE assignments (
+    id INT AUTO_INCREMENT,
+    url VARCHAR(500) UNIQUE NOT NULL,
+    title VARCHAR(1000) NOT NULL,
+
+    PRIMARY KEY (id)
+);
