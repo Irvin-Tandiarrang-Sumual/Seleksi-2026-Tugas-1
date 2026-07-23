@@ -1,0 +1,596 @@
+[
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    },
+    "instructors": [
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Techn M Catur Zuhri Chandra",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Fazat Nur Azizah",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Tricya Esterina Widagdo",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Monterico Adrian",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Monterico Adrian",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    },
+    "instructors": [
+      {
+        "name": "Masayu Leylia Khodra",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    },
+    "instructors": [
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Dwi Hendratmo Widiyantoro",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K4"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi",
+        "sections": [
+          "K1"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 2,
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Arrival Dwi Sentosa",
+        "sections": [
+          "K2"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Arrival Dwi Sentosa",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    },
+    "instructors": [
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Fariska Zakhralativa Ruskanda",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Monterico Adrian",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    },
+    "instructors": [
+      {
+        "name": "Nur Ulfa Maulidevi",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Fariska Zakhralativa Ruskanda",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Harlili",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevia",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Harlili",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Fariska Zakhralativa",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Nur Ulfa Maulidevia",
+        "sections": [
+          "K4"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    },
+    "instructors": [
+      {
+        "name": "Rinaldi",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Arrival Dwi Sentosa",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    },
+    "instructors": [
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Judhi Santoso",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Arrival Dwi Sentosa",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    },
+    "instructors": [
+      {
+        "name": "Judhi S Santoso",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Arrival Dwi Sentosa",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    },
+    "instructors": [
+      {
+        "name": "Judhi S Santoso",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    },
+    "instructors": [
+      {
+        "name": "Judhi S Santoso",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K3"
+        ]
+      }
+    ]
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Geometri",
+    "course_credits": 3,
+    "semester": 1,
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    },
+    "instructors": [
+      {
+        "name": "Judhi S Santoso",
+        "sections": [
+          "K1"
+        ]
+      },
+      {
+        "name": "Rinaldi Munir",
+        "sections": [
+          "K2"
+        ]
+      },
+      {
+        "name": "Nugraha Priya Utama",
+        "sections": [
+          "K3"
+        ]
+      },
+      {
+        "name": "Rila Mandala",
+        "sections": [
+          "K4"
+        ]
+      }
+    ]
+  }
+]

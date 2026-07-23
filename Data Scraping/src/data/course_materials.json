@@ -1,0 +1,5442 @@
+[
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/01-Pengantar-Strategi-Algoritma-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/02-Algoritma-Brute-Force-(2026)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/03-Algoritma-Brute-Force-(2026)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/04-Algoritma-Greedy-(2026)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/05-Algoritma-Greedy-(2026)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/06-Algoritma-Greedy-(2026)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/07-Algoritma-Divide-and-Conquer-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/08-Algoritma-Divide-and-Conquer-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/09-Algoritma-Divide-and-Conquer-(2026)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/10-Algoritma-Divide-and-Conquer-(2026)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/11-Algoritma-Decrease-and-Conquer-2026-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/12-Algoritma-Decrease-and-Conquer-2026-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/13-BFS-DFS-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/14-BFS-DFS-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Runut-balik (backtracking) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/15-Algoritma-backtracking-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Runut-balik (backtracking) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/16-Algoritma-backtracking-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/17-Algoritma-Branch-and-Bound-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/18-Algoritma-Branch-and-Bound-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/19-Algoritma-Branch-and-Bound-(2026)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/20-Algoritma-Branch-and-Bound-(2026)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/21-Route-Planning-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/22-Route-Planning-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (string matching) dengan algoritma brute force, KMP, Boyer-Moore",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/23-Pencocokan-string-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan regular expression (regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/24-String-Matching-dengan-Regex-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/25-Program-Dinamis-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/26-Program-Dinamis-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Materi tambahan Program Dinamis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tambahan-Program-Dinamis.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/27-Teori-P-NP-dan-NPC-(2026)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/28-Teori-P-NP-dan-NPC-(2026)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/01-Pengantar-Strategi-Algoritma-(2025).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/02-Algoritma-Brute-Force-(2025)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/03-Algoritma-Brute-Force-(2025)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/04-Algoritma-Greedy-(2025)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/05-Algoritma-Greedy-(2025)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/06-Algoritma-Greedy-(2025)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/07-Algoritma-Divide-and-Conquer-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/08-Algoritma-Divide-and-Conquer-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/09-Algoritma-Divide-and-Conquer-(2025)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/10-Algoritma-Divide-and-Conquer-(2025)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/11-Algoritma-Decrease-and-Conquer-2025-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/12-Algoritma-Decrease-and-Conquer-2025-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/13-BFS-DFS-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/14-BFS-DFS-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/15-Algoritma-backtracking-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/16-Algoritma-backtracking-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/17-Algoritma-Branch-and-Bound-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/18-Algoritma-Branch-and-Bound-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/19-Algoritma-Branch-and-Bound-(2025)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/20-Algoritma-Branch-and-Bound-(2025)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/21-Route-Planning-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/22-Route-Planning-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (string matching) dengan algoritma brute force, KMP, Boyer-Moore",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/23-Pencocokan-string-(2025).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan regular expression (regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/24-String-Matching-dengan-Regex-(2025).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/25-Program-Dinamis-(2025)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/26-Program-Dinamis-(2025)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Materi tambahan Program Dinamis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tambahan-Program-Dinamis.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 1).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 2).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Pengantar-Strategi-Algoritma-(2024).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Greedy-(2022)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Divide-and-Conquer-(2024)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Divide-and-Conquer-(2024)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Divide-and-Conquer-(2024)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Divide-and-Conquer-(2024)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decresae and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Decrease-and-Conquer-2024-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Algoritma-Decrease-and-Conquer-2024-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/BFS-DFS-2021-Bag1-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branch-and-Bound-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Branchand-Bound-2022-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian1-2021.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian2-2021.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (String matching/pattern matching)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Pencocokan-string-2021.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan Regular Expression (Regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/String-Matching-dengan-Regex-2019.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 1).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 2).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Pengantar-Strategi-Algoritma-(2023).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Greedy-(2022)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Divide-and-Conquer-(2022)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branch-and-Bound-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Branchand-Bound-2022-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian1-2021.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian2-2021.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (String matching/pattern matching)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Pencocokan-string-2021.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan Regular Expression (Regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/String-Matching-dengan-Regex-2019.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Materi tambahan Program Dinamis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tambahan-Program-Dinamis.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 1).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 2).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Pengantar-Strategi-Algoritma-(2022).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Brute-Force-(2022)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Greedy-(2022)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Divide-and-Conquer-(2022)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branch-and-Bound-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Algoritma-Branchand-Bound-2022-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian1-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian2-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (String matching/pattern matching)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Pencocokan-string-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan Regular Expression (Regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2018-2019/String-Matching-dengan-Regex-2019.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Materi tambahan Program Dinamis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tambahan-Program-Dinamis.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 1).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 2).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pengantar Strategi Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Pengantar-Strategi-Algoritma-(2021).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Brute-Force-(2021)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Brute Force (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Brute-Force-(2021)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Greedy (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Greedy-(2021)-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Divide and Conquer (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Divide-and-Conquer-(2021)-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma Decrease and Conquer (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Decrease-and-Conquer-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Breadth First Search (BFS) dan Depth First Search (DFS) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/BFS-DFS-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma runut-balik (backtracking) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-backtracking-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branch-and-Bound-2021-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Algoritma branch and bound (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Algoritma-Branchand-Bound-2021-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian1-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Penentuan rute (Route/Path Planning) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Route-Planning-Bagian2-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string (String matching/pattern matching)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Pencocokan-string-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Pencocokan string dengan Regular Expression (Regex)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2018-2019/String-Matching-dengan-Regex-2019.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Modul praktikum regex",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Modul-Praktikum-NLP-Regex.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Program Dinamis (Dynamic Programming) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Program-Dinamis-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Materi tambahan Program Dinamis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tambahan-Program-Dinamis.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 1).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Teori P, NP, dan NP-Complete (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2019-2020/Teori-P-NP-dan-NPC-(Bagian 2).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/00-Pengantar-Matematika-Diskrit-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Logika dan penalaran",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/01-Logika-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/02-Himpunan(2026)-1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/03-Himpunan(2026)-2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/04-Himpunan(2026)-3.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan fungsi (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/05-Relasi-dan-Fungsi-Bagian1-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/06-Relasi-dan-Fungsi-Bagian2-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: fungsi khusus, relasi kesetaraan, relasi pengurutan parsial, \r\n       dan klosur relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/07-Relasi-dan-Fungsi-Bagian3-(2026).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/08-Induksi-matematik-bagian1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/09-Induksi-matematik-bagian2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2026)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 1)(Versi update 2026)Teori Bilangan (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 3)(Versi update 2026)Kombinatorika (Bagian 1)(Versi update 2026)Kombinatorika (Bagian 2)(Versi update 2026)Graf (Bagian 1)(Versi update 2026)Graf (Bagian 2)(Versi update 2026)Graf (Bagian 3)(Versi update 2026)Pohon (Bagian 1)(Versi update 2026)Pohon (Bagian 2)(Versi update 2026)Kompleksitas algoritma (Bagian 1)(Versi update 2026)Kompleksitas algoritma (Bagian 2)(Versi update 2026)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/10-Aljabar-Boolean-(2026)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2026)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 1)(Versi update 2026)Teori Bilangan (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 3)(Versi update 2026)Kombinatorika (Bagian 1)(Versi update 2026)Kombinatorika (Bagian 2)(Versi update 2026)Graf (Bagian 1)(Versi update 2026)Graf (Bagian 2)(Versi update 2026)Graf (Bagian 3)(Versi update 2026)Pohon (Bagian 1)(Versi update 2026)Pohon (Bagian 2)(Versi update 2026)Kompleksitas algoritma (Bagian 1)(Versi update 2026)Kompleksitas algoritma (Bagian 2)(Versi update 2026)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/11-Aljabar-Boolean-(2026)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2026)Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 1)(Versi update 2026)Teori Bilangan (Bagian 2)(Versi update 2026)Teori Bilangan (Bagian 3)(Versi update 2026)Kombinatorika (Bagian 1)(Versi update 2026)Kombinatorika (Bagian 2)(Versi update 2026)Graf (Bagian 1)(Versi update 2026)Graf (Bagian 2)(Versi update 2026)Graf (Bagian 3)(Versi update 2026)Pohon (Bagian 1)(Versi update 2026)Pohon (Bagian 2)(Versi update 2026)Kompleksitas algoritma (Bagian 1)(Versi update 2026)Kompleksitas algoritma (Bagian 2)(Versi update 2026)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/12-Aljabar-Boolean-(2026)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/13-Barisan, rekursi-dan-relasi-rekurens-(Bagian1)-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Barisan, sumasi, rekursi, dan relasi rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/14-Barisan, rekursi-dan-relasi-rekurens-(Bagian2)-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/15-Teori-Bilangan-Bagian1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/16-Teori-Bilangan-Bagian2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/17-Teori-Bilangan-Bagian3-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/18-Kombinatorika-Bagian1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/19-Kombinatorika-Bagian2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/20-Graf-Bagian1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/21-Graf-Bagian2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/22-Graf-Bagian3-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/23-Pohon-Bag1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/24-Pohon-Bag2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/25-Kompleksitas-Algoritma-Bagian1-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/26-Kompleksitas-Algoritma-Bagian2-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/00-Pengantar-Matematika-Diskrit-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Logika",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/01-Logika-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/02-Himpunan(2025)-1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/03-Himpunan(2025)-2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunan ( bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/04-Himpunan(2025)-3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan fungsi (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/05-Relasi-dan-Fungsi-Bagian1-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/06-Relasi-dan-Fungsi-Bagian2-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: fungsi khusus, relasi kesetaraan, relasi pengurutan parsial, dan klosur relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/07-Relasi-dan-Fungsi-Bagian3-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/08-Induksi-matematik-bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/09-Induksi-matematik-bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Deretan, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2024)Deretan, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/12-Aljabar-Boolean-(2024)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Deretan, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2024)Deretan, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/13-Aljabar-Boolean-(2024)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)Deretan, rekursi, dan relasi rekurens (Bagian 1)(Versi update 2024)Deretan, rekursi, dan relasi rekurens (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/14-Aljabar-Boolean-(2024)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Deretan, rekursi, dan relasi rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/10-Deretan, rekursi-dan-relasi-rekurens-(Bagian1)-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Deretan, rekursi, dan relasi rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/11-Deretan, rekursi-dan-relasi-rekurens-(Bagian2)-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/15-Teori-Bilangan-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/16-Teori-Bilangan-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/17-Teori-Bilangan-Bagian3-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/18-Kombinatorika-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/19-Kombinatorika-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/20-Graf-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/21-Graf-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/22-Graf-Bagian3-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/23-Pohon-Bag1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/24-Pohon-Bag2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/25-Kompleksitas-Algoritma-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/26-Kompleksitas-Algoritma-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/00-Pengantar-Matematika-Diskrit-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Logika",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/01-Logika-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunnan ( bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/02-Himpunan(2024)-1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunnan ( bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/03-Himpunan(2024)-2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Himpunnan ( bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/04-Himpunan(2024)-3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan fungsi (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/05-Relasi-dan-Fungsi-Bagian1-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/06-Relasi-dan-Fungsi-Bagian2-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: fungsi khusus, relasi kesetaraan, relasi pengurutan parsial, dan klosur relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/07-Relasi-dan-Fungsi-Bagian3-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/08-Induksi-matematik-bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/09-Induksi-matematik-bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Deretan, rekursi, dan relasi rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/10-Deretan, rekursi-dan-relasi-rekurens-(Bagian1)-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Deretan, rekursi, dan relasi rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/11-Deretan, rekursi-dan-relasi-rekurens-(Bagian2)-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/12-Aljabar-Boolean-(2024)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)Aljabar Boolean (Bagian 3)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/13-Aljabar-Boolean-(2024)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)Teori Bilangan (Bagian 1)(Versi update 2024)Teori Bilangan (Bagian 2)(Versi update 2024)Teori Bilangan (Bagian 3)(Versi update 2024)Kombinatorika (Bagian 1)(Versi update 2024)Kombinatorika (Bagian 2)(Versi update 2024)Graf (Bagian 1)(Versi update 2024)Graf (Bagian 2)(Versi update 2024)Graf (Bagian 3)(Versi update 2024)Pohon (Bagian 1)(Versi update 2024)Pohon (Bagian 2)(Versi update 2024)Kompleksitas algoritma (Bagian 1)(Versi update 2024)Kompleksitas algoritma (Bagian 2)(Versi update 2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/14-Aljabar-Boolean-(2024)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/15-Teori-Bilangan-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/16-Teori-Bilangan-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/17-Teori-Bilangan-Bagian3-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/18-Kombinatorika-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorika (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/19-Kombinatorika-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/20-Graf-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/21-Graf-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/22-Graf-Bagian3-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/23-Pohon-Bag1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/24-Pohon-Bag2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/25-Kompleksitas-Algoritma-Bagian1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/26-Kompleksitas-Algoritma-Bagian2-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Perihal dosen pengampu kuliah Matematika Diskrit tahun 2023",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Tentang-Dosen-Pengajar-IF2120-Matematika-Diskrit-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Beberapa aturan perkuliahan Matdis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Beberapa-aturan-perkuliahan-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/00-Pengantar-Matematika-Diskrit.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/01-Himpunan(2023)-1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/02-Himpunan(2023)-2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/03-Himpunan(2023)-3.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan fungsi (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/04-Relasi-dan-Fungsi-Bagian1-(2023).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/05-Relasi-dan-Fungsi-Bagian2-(2023).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: fungsi khusus, relasi kesetaraan, relasi pengurutan parsial, dan klosur relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/06-Relasi-dan-Fungsi-Bagian3-(2023).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 1: prinsip induksi sederhana dan prinsip induksi kuat)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/07-Induksi-matematik-bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi matematika (Bagian 2: prinsip induksi sederhana dan prinsip induksi kuat)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/08-Induksi-matematik-bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan relasi rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/09-Rekursi-dan-relasi-rekurens-(Bagian1)-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan relasi rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/10-Rekursi-dan-relasi-rekurens-(Bagian2)-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/11-Aljabar-Boolean-(2023)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/12-Aljabar-Boolean-(2023)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/13-Aljabar-Boolean-(2023)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/14-Teori-Bilangan-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/15-Teori-Bilangan-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/16-Teori-Bilangan-Bagian3-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/17-Kombinatorial-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/18-Kombinatorial-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/19-Graf-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/20-Graf-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/21-Graf-Bagian3-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/22-Pohon-Bag1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/23-Pohon-Bag2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/24-Kompleksitas-Algoritma-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/25-Kompleksitas-Algoritma-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Perihal dosen pengampu kuliah Matematika Diskrit tahun 2022",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Tentang-Dosen-Pengajar-Matdis-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Beberapa aturan perkuliahan Matdis",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Beberapa-aturan-perkuliahan-IF2120-2021.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Pengantar-Matematika-Diskrit-(2021).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 1 - versi update 2022)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Himpunan(2022)-1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 2- versi update 2022)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Himpunan(2022)-2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 1: Definisi, representasi, dan sifat-sifat relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian1-(2020).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian2-(2020).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: Relasi kesetaraan dan closure relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian3-(2020).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 1: Prinsip induksi sederhana dan induksi yang dirampatkan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian1-2020.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 2: Prinsip induksi kuat, aplikasi induksi matematika untuk pembuktian kebenaran program)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian2-2020.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-1).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-2).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Pohon-2020-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Pohon-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Perihal dosen pengampu kuliah Matematika Diskrit tahun 2021",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Tentang-Dosen-Pengajar-Matdis-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Beberapa aturan perkuliahan (kuliah tatap muka, jika ada)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Beberapa-aturan-perkuliahan-IF2120-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit (2021)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Pengantar-Matematika-Diskrit-(2021).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 1 - versi 2021)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Himpunan(2021)-1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Himpunan(2020)-2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 1: Definisi, representasi, dan sifat-sifat relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian1-(2020).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian2-(2020).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: Relasi kesetaraan dan closure relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian3-(2020).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 1: Prinsip induksi sederhana dan induksi yang dirampatkan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian1-2020.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 2: Prinsip induksi kuat, aplikasi induksi matematika untuk pembuktian kebenaran program)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian2-2020.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-1).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-2).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Pohon-2020-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2 - Update 2021)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Pohon-2021-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Perihal dosen pengampu kuliah Matematika Diskrit tahun 2020",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Tentang-Dosen-Pengajar-Matdis-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Beberapa aturan perkuliahan (kuliah tatap muka, jika ada)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Beberapa-aturan-perkuliahan-IF2120-2019.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pengantar Matematika Diskrit (2020)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Pengantar-Matematika-Diskrit-(2020).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Himpunan(2020)-1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori himpunan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Himpunan(2020)-2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 1: Definisi, representasi, dan sifat-sifat relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian1-(2020).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 2: Relasi inversi, komposisi relasi, relasi n-ary, fungsi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian2-(2020).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Relasi dan Fungsi (Bagian 3: Relasi kesetaraan dan closure relasi)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Relasi-dan-Fungsi-Bagian3-(2020).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 1: Prinsip induksi sederhana dan induksi yang dirampatkan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian1-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Induksi Matematika (Bagian 2: Prinsip induksi kuat, aplikasi induksi matematika untuk pembuktian kebenaran program)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Induksi-matematik-bagian2-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-1).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Rekursi dan Relasi Rekurens (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Rekursi-dan-relasi-rekurens-(Bagian-2).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Aljabar Boolean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Aljabar-Boolean-(2020)-bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Teori Bilangan (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Teori-Bilangan-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kombinatorial (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kombinatorial-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Graf (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Graf-2020-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Pohon-2020-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Pohon (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Pohon-2020-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kompleksitas Algoritma (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kompleksitas-Algoritma-2020-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2025)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-00-Pengantar-Aljabar-Geometri-(2025).pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-01-Review-Matriks-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-02-Matriks-Eselon-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (SPL) - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-03-Sistem-Persamaan-Linier-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (SPL) - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-05-Sistem-Persamaan-Linier-2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyata dan sains",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-06-Aplikasi-SPL-1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-07-Aplikasi-SPL-2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 1: menghitung determinan dengan reduksi baris)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-08-Determinan-bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 2: menghitung determinan dengan ekspansi kofaktor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-09-Determinan-bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-10-Pengantar-Pemrograman-dengan-Bahasa-Java-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-11-Vektor-di-Ruang-Euclidean-Bag1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-12-Vektor-di-Ruang-Euclidean-Bag2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada information retrieval",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-14-Aplikasi-dot-product-pada-IR-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-15-Ruang-vektor-umum-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-16-Ruang-vektor-umum-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-17-Ruang-vektor-umum-Bagian3-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-18-Ruang-vektor-umum-Bagian4-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-20-Nilai-Eigen-dan-Vektor-Eigen-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-21-Singular-value-decomposition-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-22-Singular-value-decomposition-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi LU",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-23-Dekomposisi-LU-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi QR",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-24-Dekomposisi-QR-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar kompleks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-25-Aljabar-Kompleks-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-26-Aljabar-Quaternion-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-27-Aljabar-Quaternion-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Bacaan tambahan tentang quaternion dan aplikasinya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/quaternion-tambahan.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-28-Aljabar-Geometri-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-29-Aljabar-Geometri-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-30-Perkalian-Geometri-Bagian1-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Algeo-31-Perkalian-Geometri-Bagian2-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2024)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Algeo-00-Pengantar-Aljabar-Geometri-(2024).pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-01-Review-Matriks-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-02-Matriks-Eselon-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 1: Metode eliminasi Gauss)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-03-Sistem-Persamaan-Linier-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 3: Metode eliminasi Gauss-Jordan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-05-Sistem-Persamaan-Linier-2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyata dan sains",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-06-Aplikasi-SPL-1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-07-Aplikasi-SPL-2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Algeo-10-Pengantar-Pemrograman-dengan-Bahasa-Java-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Algeo-11-Vektor-di-Ruang-Euclidean-Bag1-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-12-Vektor-di-Ruang-Euclidean-Bag2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada information retrieval",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-14-Aplikasi-dot-product-pada-IR-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-15-Ruang-vektor-umum-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-16-Ruang-vektor-umum-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-17-Ruang-vektor-umum-Bagian3-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-18-Ruang-vektor-umum-Bagian4-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-20-Nilai-Eigen-dan-Vektor-Eigen-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-21-Singular-value-decomposition-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-22-Singular-value-decomposition-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi LU",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-23-Dekomposisi-LU-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi QR",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Algeo-23b-Dekomposisi-QR-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar kompleks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-24-Aljabar-Kompleks-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-25-Aljabar-Quaternion-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-26-Aljabar-Quaternion-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-27-Aljabar-Geometri-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-28-Aljabar-Geometri-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-29-Perkalian-Geometri-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-30-Perkalian-Geometri-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2023)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-00-Pengantar-Aljabar-Geometri-(2023).pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-01-Review-Matriks-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-02-Matriks-Eselon-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 1: Metode eliminasi Gauss)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-03-Sistem-Persamaan-Linier-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 3: Metode eliminasi Gauss-Jordan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-05-Sistem-Persamaan-Linier-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyatad dan sains",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-06-Aplikasi-SPL-1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-07-Aplikasi-SPL-2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 1: menghitung determinan dengan reduksi baris)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-08-Determinan-bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 2: menghitung determinan dengan ekspansi kofaktor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-09-Determinan-bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-10-Pengantar-Pemrograman-dengan-Bahasa-Java-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-11-Vektor-di-Ruang-Euclidean-Bag1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-12-Vektor-di-Ruang-Euclidean-Bag2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada information retrieval",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-14-Aplikasi-dot-product-pada-IR-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-15-Ruang-vektor-umum-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-16-Ruang-vektor-umum-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-17-Ruang-vektor-umum-Bagian3-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-18-Ruang-vektor-umum-Bagian4-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-20-Nilai-Eigen-dan-Vektor-Eigen-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-21-Singular-value-decomposition-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-22-Singular-value-decomposition-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi LU",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-23-Dekomposisi-LU-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar kompleks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-24-Aljabar-Kompleks-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-25-Aljabar-Quaternion-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-26-Aljabar-Quaternion-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-27-Aljabar-Geometri-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-28-Aljabar-Geometri-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-29-Perkalian-Geometri-Bagian1-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Algeo-30-Perkalian-Geometri-Bagian2-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2022)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-00-Pengantar-Aljabar-Geometri-(2022).pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-01-Review-Matriks.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-02-Matriks-Eselon.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 1: Metode eliminasi Gauss)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-03-Sistem-Persamaan-Linier.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 2: Metode eliminasi Gauss-Jordan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-05-Sistem-Persamaan-Linier-2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyata",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-06-Aplikasi-SPL-1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-07-Aplikasi-SPL-2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 1: menghitung determinan dengan reduksi baris)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-08-Determinan-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 2: menghitung determinan dengan ekspansi kofaktor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-09-Determinan-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java (2022)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Pengantar-Pemrograman-dengan-Bahasa-Java-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-10-Vektor-di-Ruang-Euclidean-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-11-Vektor-di-Ruang-Euclidean-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada sistem temu-balik informasi (information retrieval)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-12-Aplikasi-dot-product-pada-IR.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-14-Ruang-vektor-umum-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-15-Ruang-vektor-umum-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-16-Ruang-vektor-umum-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-17-Ruang-vektor-umum-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-18-Nilai-Eigen-dan-Vektor-Eigen-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian2-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-20-Singular-value-decomposition-Bagian1-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD) (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-21-Singular-value-decomposition-Bagian2-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Dekomposisi LU",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-22-Dekomposisi-LU.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar kompleks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-23-Aljabar-Kompleks.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-24-Aljabar-Quaternion-Bagian1-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar quaternion (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-25-Aljabar-Quaternion-Bagian2-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 1: Outer Product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-26-Aljabar-Geometri-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 2: Aplikasi outer product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-27-Aljabar-Geometri-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Algeo-28-Perkalian-Geometri.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Demo aplikasi GA Viewer",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Demo-GAviewer.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2021)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Algeo-00-Pengantar-Aljabar-Geometri-(2021).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-01-Review-Matriks.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-02-Matriks-Eselon.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 1: Metode eliminasi Gauss)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-03-Sistem-Persamaan-Linier.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 2: Metode eliminasi Gauss-Jordan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-05-Sistem-Persamaan-Linier-2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyata",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-06-Aplikasi-SPL-1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-07-Aplikasi-SPL-2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 1: menghitung determinan dengan reduksi baris)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-08-Determinan-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 2: menghitung determinan dengan ekspansi kofaktor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-09-Determinan-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java (2021)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Pengantar-Pemrograman-dengan-Bahasa-Java-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-10-Vektor-di-Ruang-Euclidean-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-11-Vektor-di-Ruang-Euclidean-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada sistem temu-balik informasi (information retrieval)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-12-Aplikasi-dot-product-pada-IR.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-14-Ruang-vektor-umum-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-15-Ruang-vektor-umum-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-16-Ruang-vektor-umum-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-17-Ruang-vektor-umum-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-18-Nilai-Eigen-dan-Vektor-Eigen-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Singular Value Decomposition (SVD)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-19b-Singular-value-decomposition.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Quaternion",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-20-Aljabar-Quaternion.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 1: Outer Product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-21-Aljabar-Geometri-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 2: Aplikasi outer product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-22-Aljabar-Geometri-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-23-Perkalian-Geometri-(Bagian1).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-24-Perkalian-Geometri-(Bagian2).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-25-Perkalian-Geometri-(Bagian3).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Demo aplikasi GA Viewer",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Demo-GAviewer.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar Aljabar Linier dan Geometri (2020)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-00-Pengantar-Aljabar-Geometri-(2020).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Review matriks",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-01-Review-Matriks.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Matriks eselon",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-02-Matriks-Eselon.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 1: Metode eliminasi Gauss)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-03-Sistem-Persamaan-Linier.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Sistem persamaan linier (Bagian 2: Metode eliminasi Gauss-Jordan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-05-Sistem-Persamaan-Linier-2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh-contoh pemodelan sistem persamaan linier dalam dunia nyata",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-06-Aplikasi-SPL-1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Contoh aplikasi eliminasi Gauss di dalam metode numerik",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-07-Aplikasi-SPL-2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 1: menghitung determinan dengan reduksi baris)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-08-Determinan-bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Determinan (Bagian 2: menghitung determinan dengan ekspansi kofaktor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-09-Determinan-bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-10-Vektor-di-Ruang-Euclidean-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Pengantar pemrograman dengan Bahasa Java",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Pengantar-Pemrograman-dengan-Bahasa-Java-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-11-Vektor-di-Ruang-Euclidean-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aplikasi dot product pada sistem temu-balik informasi (information retrieval)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-12-Aplikasi-dot-product-pada-IR.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Vektor di ruang Euclidean (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-13-Vektor-di-Ruang-Euclidean-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-14-Ruang-vektor-umum-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-15-Ruang-vektor-umum-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-16-Ruang-vektor-umum-Bagian3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ruang vektor umum (Bagian 4)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-17-Ruang-vektor-umum-Bagian4.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-18-Nilai-Eigen-dan-Vektor-Eigen-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Nilai Eigen dan Vektor Eigen (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-19-Nilai-Eigen-dan-Vektor-Eigen-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Quaternion",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-20-Aljabar-Quaternion.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 1: Outer Product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-21-Aljabar-Geometri-Bagian1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Aljabar Geometri (Bagian 2: Aplikasi outer product)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-22-Aljabar-Geometri-Bagian2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 1)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-23-Perkalian-Geometri-(Bagian1).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 2)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-24-Perkalian-Geometri-(Bagian2).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Perkalian Geometri (Bagian 3)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Algeo-25-Perkalian-Geometri-(Bagian3).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  }
+]

@@ -1,0 +1,521 @@
+================================================================================
+SCRAPING LOG STARTED AT 2026-07-23T23:03:34.954548
+================================================================================
+[2026-07-23T23:03:34.955025] [ INFO  ] ================================================================================
+[2026-07-23T23:03:34.955196] [ INFO  ] SCRAPING DATA PERKULIAHAN ITB
+[2026-07-23T23:03:34.955240] [ INFO  ] ================================================================================
+[2026-07-23T23:03:34.955319] [ INFO  ] Total Courses : 3
+[2026-07-23T23:03:34.958108] [ INFO  ] Year Range    : 2020 - 2026
+[2026-07-23T23:03:34.958252] [ INFO  ] Processing: Strategi Algoritma (IF2211)
+[2026-07-23T23:03:36.526920] [ INFO  ] Found 6 valid years for IF2211
+[2026-07-23T23:03:36.527121] [ INFO  ] Crawling IF2211 year 2025/2026
+[2026-07-23T23:03:36.527269] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2025/2026)
+[2026-07-23T23:03:37.810577] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:03:37.860448] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Info-ringkas-kuliah-2026.pdf
+[2026-07-23T23:03:38.720977] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:03:38.722135] [SUCCESS] [IF2211] Found 30 course materials
+[2026-07-23T23:03:38.722439] [SUCCESS] [IF2211] Found 8 assignments
+[2026-07-23T23:03:38.722690] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Daftar_Makalah_Stima.html
+[2026-07-23T23:03:40.159315] [ INFO  ] [IF2211] Found 168 PDFs in paper list
+[2026-07-23T23:03:40.159577] [ INFO  ] [IF2211] Processing 168 papers with 5 workers
+[2026-07-23T23:03:43.594122] [ INFO  ] [IF2211] Progress: 10/168 papers processed
+[2026-07-23T23:03:45.566123] [ INFO  ] [IF2211] Progress: 20/168 papers processed
+[2026-07-23T23:03:48.167347] [ INFO  ] [IF2211] Progress: 30/168 papers processed
+[2026-07-23T23:03:51.294140] [ INFO  ] [IF2211] Progress: 40/168 papers processed
+[2026-07-23T23:03:53.790304] [ INFO  ] [IF2211] Progress: 50/168 papers processed
+[2026-07-23T23:03:56.703180] [ INFO  ] [IF2211] Progress: 60/168 papers processed
+[2026-07-23T23:04:00.685886] [ INFO  ] [IF2211] Progress: 70/168 papers processed
+[2026-07-23T23:04:04.249245] [ INFO  ] [IF2211] Progress: 80/168 papers processed
+[2026-07-23T23:04:07.468327] [ INFO  ] [IF2211] Progress: 90/168 papers processed
+[2026-07-23T23:04:10.718926] [ INFO  ] [IF2211] Progress: 100/168 papers processed
+[2026-07-23T23:04:13.589343] [ INFO  ] [IF2211] Progress: 110/168 papers processed
+[2026-07-23T23:04:16.399408] [ INFO  ] [IF2211] Progress: 120/168 papers processed
+[2026-07-23T23:04:18.480464] [ INFO  ] [IF2211] Progress: 130/168 papers processed
+[2026-07-23T23:04:21.547692] [ INFO  ] [IF2211] Progress: 140/168 papers processed
+[2026-07-23T23:04:24.384169] [ INFO  ] [IF2211] Progress: 150/168 papers processed
+[2026-07-23T23:04:26.945781] [ INFO  ] [IF2211] Progress: 160/168 papers processed
+[2026-07-23T23:04:29.542806] [SUCCESS] [IF2211] Found 168 papers
+[2026-07-23T23:04:29.542981] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Nilai-Akhir-IF2211-Stima-2025-2026.htm
+[2026-07-23T23:04:30.493581] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Nilai-Akhir-IF2211-Stima-2025-2026_files/sheet001.htm
+[2026-07-23T23:04:32.187770] [SUCCESS] [IF2211] Parsed 162 student grades
+[2026-07-23T23:04:32.191973] [ INFO  ] Crawling IF2211 year 2024/2025
+[2026-07-23T23:04:32.192105] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2024/2025)
+[2026-07-23T23:04:33.150955] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:04:33.254803] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Info-ringkas-kuliah-2025.pdf
+[2026-07-23T23:04:34.960991] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:04:34.961147] [SUCCESS] [IF2211] Found 30 course materials
+[2026-07-23T23:04:34.961181] [SUCCESS] [IF2211] Found 8 assignments
+[2026-07-23T23:04:34.961201] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Makalah2025.htm
+[2026-07-23T23:04:35.819263] [ INFO  ] [IF2211] Found 180 PDFs in paper list
+[2026-07-23T23:04:35.819558] [ INFO  ] [IF2211] Processing 180 papers with 5 workers
+[2026-07-23T23:04:40.586392] [ INFO  ] [IF2211] Progress: 10/180 papers processed
+[2026-07-23T23:04:43.995553] [ INFO  ] [IF2211] Progress: 20/180 papers processed
+[2026-07-23T23:04:47.015627] [ INFO  ] [IF2211] Progress: 30/180 papers processed
+[2026-07-23T23:04:49.857028] [ INFO  ] [IF2211] Progress: 40/180 papers processed
+[2026-07-23T23:04:52.337636] [ INFO  ] [IF2211] Progress: 50/180 papers processed
+[2026-07-23T23:04:56.036407] [ INFO  ] [IF2211] Progress: 60/180 papers processed
+[2026-07-23T23:04:58.959041] [ INFO  ] [IF2211] Progress: 70/180 papers processed
+[2026-07-23T23:05:02.317930] [ INFO  ] [IF2211] Progress: 80/180 papers processed
+[2026-07-23T23:05:05.579116] [ INFO  ] [IF2211] Progress: 90/180 papers processed
+[2026-07-23T23:05:08.307621] [ INFO  ] [IF2211] Progress: 100/180 papers processed
+[2026-07-23T23:05:13.174927] [ INFO  ] [IF2211] Progress: 110/180 papers processed
+[2026-07-23T23:05:16.764225] [ INFO  ] [IF2211] Progress: 120/180 papers processed
+[2026-07-23T23:05:19.486482] [ INFO  ] [IF2211] Progress: 130/180 papers processed
+[2026-07-23T23:05:22.460655] [ INFO  ] [IF2211] Progress: 140/180 papers processed
+[2026-07-23T23:05:24.876918] [ INFO  ] [IF2211] Progress: 150/180 papers processed
+[2026-07-23T23:05:27.893764] [ INFO  ] [IF2211] Progress: 160/180 papers processed
+[2026-07-23T23:05:32.207104] [ INFO  ] [IF2211] Progress: 170/180 papers processed
+[2026-07-23T23:05:35.568888] [ INFO  ] [IF2211] Progress: 180/180 papers processed
+[2026-07-23T23:05:35.570181] [SUCCESS] [IF2211] Found 180 papers
+[2026-07-23T23:05:35.570565] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Nilai-Akhir-IF2211-Stima-2024-2025-2.htm
+[2026-07-23T23:05:36.740570] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Nilai-Akhir-IF2211-Stima-2024-2025-2_files/sheet001.htm
+[2026-07-23T23:05:38.036013] [SUCCESS] [IF2211] Parsed 185 student grades
+[2026-07-23T23:05:38.040532] [ INFO  ] Crawling IF2211 year 2023/2024
+[2026-07-23T23:05:38.040682] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2023/2024)
+[2026-07-23T23:05:39.214799] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:05:39.294737] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Info-ringkas-kuliah.pdf
+[2026-07-23T23:05:40.844267] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:05:40.844446] [SUCCESS] [IF2211] Found 29 course materials
+[2026-07-23T23:05:40.844525] [SUCCESS] [IF2211] Found 9 assignments
+[2026-07-23T23:05:40.844599] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Makalah2024.htm
+[2026-07-23T23:05:42.136824] [ INFO  ] [IF2211] Found 166 PDFs in paper list
+[2026-07-23T23:05:42.137611] [ INFO  ] [IF2211] Processing 166 papers with 5 workers
+[2026-07-23T23:05:45.516915] [ INFO  ] [IF2211] Progress: 10/166 papers processed
+[2026-07-23T23:05:48.691584] [ INFO  ] [IF2211] Progress: 20/166 papers processed
+[2026-07-23T23:05:51.081334] [ INFO  ] [IF2211] Progress: 30/166 papers processed
+[2026-07-23T23:05:53.843430] [ INFO  ] [IF2211] Progress: 40/166 papers processed
+[2026-07-23T23:05:57.969118] [ INFO  ] [IF2211] Progress: 50/166 papers processed
+[2026-07-23T23:06:01.233133] [ INFO  ] [IF2211] Progress: 60/166 papers processed
+[2026-07-23T23:06:06.852716] [ INFO  ] [IF2211] Progress: 70/166 papers processed
+[2026-07-23T23:06:09.897633] [ INFO  ] [IF2211] Progress: 80/166 papers processed
+[2026-07-23T23:06:12.574267] [ INFO  ] [IF2211] Progress: 90/166 papers processed
+[2026-07-23T23:06:16.976026] [ INFO  ] [IF2211] Progress: 100/166 papers processed
+[2026-07-23T23:06:21.420013] [ INFO  ] [IF2211] Progress: 110/166 papers processed
+[2026-07-23T23:06:26.118643] [ INFO  ] [IF2211] Progress: 120/166 papers processed
+[2026-07-23T23:06:29.008730] [ INFO  ] [IF2211] Progress: 130/166 papers processed
+[2026-07-23T23:06:31.778500] [ INFO  ] [IF2211] Progress: 140/166 papers processed
+[2026-07-23T23:06:35.701476] [ INFO  ] [IF2211] Progress: 150/166 papers processed
+[2026-07-23T23:06:39.422348] [ INFO  ] [IF2211] Progress: 160/166 papers processed
+[2026-07-23T23:06:41.434611] [SUCCESS] [IF2211] Found 166 papers
+[2026-07-23T23:06:41.434806] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Nilai-Akhir-IF2211-Stima-2024-v1.htm
+[2026-07-23T23:06:42.001177] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Nilai-Akhir-IF2211-Stima-2024-v1_files/sheet001.htm
+[2026-07-23T23:06:43.376686] [SUCCESS] [IF2211] Parsed 175 student grades
+[2026-07-23T23:06:43.385282] [ INFO  ] Crawling IF2211 year 2022/2023
+[2026-07-23T23:06:43.388896] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2022/2023)
+[2026-07-23T23:06:45.600630] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:06:45.845771] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Silabus2023.pdf
+[2026-07-23T23:06:46.849769] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:06:46.850046] [SUCCESS] [IF2211] Found 30 course materials
+[2026-07-23T23:06:46.850220] [SUCCESS] [IF2211] Found 9 assignments
+[2026-07-23T23:06:46.850319] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Makalah2023.htm
+[2026-07-23T23:06:47.737836] [ INFO  ] [IF2211] Found 156 PDFs in paper list
+[2026-07-23T23:06:47.738279] [ INFO  ] [IF2211] Processing 156 papers with 5 workers
+[2026-07-23T23:06:51.539904] [ INFO  ] [IF2211] Progress: 10/156 papers processed
+[2026-07-23T23:06:55.300097] [ INFO  ] [IF2211] Progress: 20/156 papers processed
+[2026-07-23T23:06:58.664688] [ INFO  ] [IF2211] Progress: 30/156 papers processed
+[2026-07-23T23:07:01.639572] [ INFO  ] [IF2211] Progress: 40/156 papers processed
+[2026-07-23T23:07:04.566363] [ INFO  ] [IF2211] Progress: 50/156 papers processed
+[2026-07-23T23:07:07.316357] [ INFO  ] [IF2211] Progress: 60/156 papers processed
+[2026-07-23T23:07:10.801724] [ INFO  ] [IF2211] Progress: 70/156 papers processed
+[2026-07-23T23:07:13.239985] [ INFO  ] [IF2211] Progress: 80/156 papers processed
+[2026-07-23T23:07:17.680262] [ INFO  ] [IF2211] Progress: 90/156 papers processed
+[2026-07-23T23:07:20.201559] [ INFO  ] [IF2211] Progress: 100/156 papers processed
+[2026-07-23T23:07:23.283810] [ INFO  ] [IF2211] Progress: 110/156 papers processed
+[2026-07-23T23:07:26.541283] [ INFO  ] [IF2211] Progress: 120/156 papers processed
+[2026-07-23T23:07:31.173372] [ INFO  ] [IF2211] Progress: 130/156 papers processed
+[2026-07-23T23:07:33.442684] [ INFO  ] [IF2211] Progress: 140/156 papers processed
+[2026-07-23T23:07:36.139360] [ INFO  ] [IF2211] Progress: 150/156 papers processed
+[2026-07-23T23:07:37.492989] [SUCCESS] [IF2211] Found 156 papers
+[2026-07-23T23:07:37.493271] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Nilai-Akhir-IF2211-2023.htm
+[2026-07-23T23:07:38.323996] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Nilai-Akhir-IF2211-2023_files/sheet001.htm
+[2026-07-23T23:07:39.413663] [SUCCESS] [IF2211] Parsed 159 student grades
+[2026-07-23T23:07:39.419761] [ INFO  ] Crawling IF2211 year 2021/2022
+[2026-07-23T23:07:39.422922] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2021/2022)
+[2026-07-23T23:07:40.626242] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:07:40.768278] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Silabus2022.pdf
+[2026-07-23T23:07:42.449607] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:07:42.449811] [SUCCESS] [IF2211] Found 30 course materials
+[2026-07-23T23:07:42.449847] [SUCCESS] [IF2211] Found 9 assignments
+[2026-07-23T23:07:42.449868] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Makalah2022.htm
+[2026-07-23T23:07:43.149186] [ INFO  ] [IF2211] Found 165 PDFs in paper list
+[2026-07-23T23:07:43.149453] [ INFO  ] [IF2211] Processing 165 papers with 5 workers
+[2026-07-23T23:07:46.870248] [ INFO  ] [IF2211] Progress: 10/165 papers processed
+[2026-07-23T23:07:49.511891] [ INFO  ] [IF2211] Progress: 20/165 papers processed
+[2026-07-23T23:07:52.122553] [ INFO  ] [IF2211] Progress: 30/165 papers processed
+[2026-07-23T23:07:55.317654] [ INFO  ] [IF2211] Progress: 40/165 papers processed
+[2026-07-23T23:07:58.344640] [ INFO  ] [IF2211] Progress: 50/165 papers processed
+[2026-07-23T23:08:00.913796] [ INFO  ] [IF2211] Progress: 60/165 papers processed
+[2026-07-23T23:08:03.678056] [ INFO  ] [IF2211] Progress: 70/165 papers processed
+[2026-07-23T23:08:06.257960] [ INFO  ] [IF2211] Progress: 80/165 papers processed
+[2026-07-23T23:08:09.253442] [ INFO  ] [IF2211] Progress: 90/165 papers processed
+[2026-07-23T23:08:11.616279] [ INFO  ] [IF2211] Progress: 100/165 papers processed
+[2026-07-23T23:08:14.471962] [ INFO  ] [IF2211] Progress: 110/165 papers processed
+[2026-07-23T23:08:17.000910] [ INFO  ] [IF2211] Progress: 120/165 papers processed
+[2026-07-23T23:08:19.920853] [ INFO  ] [IF2211] Progress: 130/165 papers processed
+[2026-07-23T23:08:22.615983] [ INFO  ] [IF2211] Progress: 140/165 papers processed
+[2026-07-23T23:08:25.038222] [ INFO  ] [IF2211] Progress: 150/165 papers processed
+[2026-07-23T23:08:27.697918] [ INFO  ] [IF2211] Progress: 160/165 papers processed
+[2026-07-23T23:08:29.406961] [SUCCESS] [IF2211] Found 165 papers
+[2026-07-23T23:08:29.407142] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Nilai-Akhir-IF2211-2022.htm
+[2026-07-23T23:08:30.385308] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Nilai-Akhir-IF2211-2022_files/sheet001.htm
+[2026-07-23T23:08:32.672542] [SUCCESS] [IF2211] Parsed 171 student grades
+[2026-07-23T23:08:32.684983] [ INFO  ] Crawling IF2211 year 2020/2021
+[2026-07-23T23:08:32.685870] [ INFO  ] [IF2211] Crawling Strategi Algoritma (2020/2021)
+[2026-07-23T23:08:34.622423] [ INFO  ] [IF2211] Detected dynamic course code: IF2211 (was IF2211)
+[2026-07-23T23:08:34.918553] [ INFO  ] [IF2211] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Silabus2021.pdf
+[2026-07-23T23:08:35.974342] [SUCCESS] [IF2211] Parsed course info: Strategi Algoritma
+[2026-07-23T23:08:35.974649] [SUCCESS] [IF2211] Found 30 course materials
+[2026-07-23T23:08:35.974840] [SUCCESS] [IF2211] Found 12 assignments
+[2026-07-23T23:08:35.974928] [ INFO  ] [IF2211] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Makalah2021.htm
+[2026-07-23T23:08:36.635883] [ INFO  ] [IF2211] Found 214 PDFs in paper list
+[2026-07-23T23:08:36.636911] [ INFO  ] [IF2211] Processing 214 papers with 5 workers
+[2026-07-23T23:08:40.144299] [ INFO  ] [IF2211] Progress: 10/214 papers processed
+[2026-07-23T23:08:42.955331] [ INFO  ] [IF2211] Progress: 20/214 papers processed
+[2026-07-23T23:08:45.842298] [ INFO  ] [IF2211] Progress: 30/214 papers processed
+[2026-07-23T23:08:48.825641] [ INFO  ] [IF2211] Progress: 40/214 papers processed
+[2026-07-23T23:08:52.412467] [ INFO  ] [IF2211] Progress: 50/214 papers processed
+[2026-07-23T23:08:57.001248] [ INFO  ] [IF2211] Progress: 60/214 papers processed
+[2026-07-23T23:08:59.897333] [ INFO  ] [IF2211] Progress: 70/214 papers processed
+[2026-07-23T23:09:02.660496] [ INFO  ] [IF2211] Progress: 80/214 papers processed
+[2026-07-23T23:09:05.856596] [ INFO  ] [IF2211] Progress: 90/214 papers processed
+[2026-07-23T23:09:09.686948] [ INFO  ] [IF2211] Progress: 100/214 papers processed
+[2026-07-23T23:09:12.023223] [ INFO  ] [IF2211] Progress: 110/214 papers processed
+[2026-07-23T23:09:15.500892] [ INFO  ] [IF2211] Progress: 120/214 papers processed
+[2026-07-23T23:09:18.642206] [ INFO  ] [IF2211] Progress: 130/214 papers processed
+[2026-07-23T23:09:21.145431] [ INFO  ] [IF2211] Progress: 140/214 papers processed
+[2026-07-23T23:09:24.756548] [ INFO  ] [IF2211] Progress: 150/214 papers processed
+[2026-07-23T23:09:28.603763] [ INFO  ] [IF2211] Progress: 160/214 papers processed
+[2026-07-23T23:09:32.957769] [ INFO  ] [IF2211] Progress: 170/214 papers processed
+[2026-07-23T23:09:36.535274] [ INFO  ] [IF2211] Progress: 180/214 papers processed
+[2026-07-23T23:09:38.692771] [ INFO  ] [IF2211] Progress: 190/214 papers processed
+[2026-07-23T23:09:41.591553] [ INFO  ] [IF2211] Progress: 200/214 papers processed
+[2026-07-23T23:09:44.755342] [ INFO  ] [IF2211] Progress: 210/214 papers processed
+[2026-07-23T23:09:45.286625] [SUCCESS] [IF2211] Found 214 papers
+[2026-07-23T23:09:45.286746] [ INFO  ] [IF2211] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Nilai-Akhir-IF2211-2021-Final.htm
+[2026-07-23T23:09:46.092936] [ INFO  ] [IF2211] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Nilai-Akhir-IF2211-2021-Final_files/sheet002.htm
+[2026-07-23T23:09:47.628501] [SUCCESS] [IF2211] Parsed 223 student grades
+[2026-07-23T23:09:47.639361] [ INFO  ] Processing: Matematika Diskrit (IF2120)
+[2026-07-23T23:09:49.683373] [ INFO  ] Found 7 valid years for IF2120
+[2026-07-23T23:09:49.683742] [ INFO  ] Crawling IF2120 year 2025/2026
+[2026-07-23T23:09:49.683953] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2025/2026)
+[2026-07-23T23:09:51.100311] [ INFO  ] [IF2120] Detected dynamic course code: IF1220 (was IF2120)
+[2026-07-23T23:09:51.193447] [ INFO  ] [IF1220] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Info-Matdis-2026.pdf
+[2026-07-23T23:09:52.565467] [SUCCESS] [IF1220] Parsed course info: Matematika Diskrit
+[2026-07-23T23:09:52.565700] [SUCCESS] [IF1220] Found 27 course materials
+[2026-07-23T23:09:52.565741] [SUCCESS] [IF1220] Found 6 assignments
+[2026-07-23T23:09:52.565768] [ INFO  ] [IF1220] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Daftar_Makalah_Matdis.html
+[2026-07-23T23:09:53.239763] [ INFO  ] [IF1220] Found 148 PDFs in paper list
+[2026-07-23T23:09:53.239922] [ INFO  ] [IF1220] Processing 148 papers with 5 workers
+[2026-07-23T23:09:57.736463] [ INFO  ] [IF1220] Progress: 10/148 papers processed
+[2026-07-23T23:10:00.896959] [ INFO  ] [IF1220] Progress: 20/148 papers processed
+[2026-07-23T23:10:03.861790] [ INFO  ] [IF1220] Progress: 30/148 papers processed
+[2026-07-23T23:10:08.188999] [ INFO  ] [IF1220] Progress: 40/148 papers processed
+[2026-07-23T23:10:10.766875] [ INFO  ] [IF1220] Progress: 50/148 papers processed
+[2026-07-23T23:10:14.284270] [ INFO  ] [IF1220] Progress: 60/148 papers processed
+[2026-07-23T23:10:18.016807] [ INFO  ] [IF1220] Progress: 70/148 papers processed
+[2026-07-23T23:10:23.407273] [ INFO  ] [IF1220] Progress: 80/148 papers processed
+[2026-07-23T23:10:26.935369] [ INFO  ] [IF1220] Progress: 90/148 papers processed
+[2026-07-23T23:10:29.862733] [ INFO  ] [IF1220] Progress: 100/148 papers processed
+[2026-07-23T23:10:33.072461] [ INFO  ] [IF1220] Progress: 110/148 papers processed
+[2026-07-23T23:10:36.160437] [ INFO  ] [IF1220] Progress: 120/148 papers processed
+[2026-07-23T23:10:38.998754] [ INFO  ] [IF1220] Progress: 130/148 papers processed
+[2026-07-23T23:10:42.120745] [ INFO  ] [IF1220] Progress: 140/148 papers processed
+[2026-07-23T23:10:44.565439] [SUCCESS] [IF1220] Found 148 papers
+[2026-07-23T23:10:44.565540] [ INFO  ] [IF1220] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Nilai-akhir-IF1220-Matdis-2026.htm
+[2026-07-23T23:10:45.869985] [ INFO  ] [IF1220] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Nilai-akhir-IF1220-Matdis-2026_files/sheet001.htm
+[2026-07-23T23:10:47.249315] [SUCCESS] [IF1220] Parsed 152 student grades
+[2026-07-23T23:10:47.255001] [ INFO  ] Crawling IF2120 year 2024/2025
+[2026-07-23T23:10:47.255334] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2024/2025)
+[2026-07-23T23:10:48.527629] [ INFO  ] [IF2120] Detected dynamic course code: IF1220 (was IF2120)
+[2026-07-23T23:10:48.628038] [ INFO  ] [IF1220] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Info-Matdis-2025.pdf
+[2026-07-23T23:10:50.047434] [SUCCESS] [IF1220] Parsed course info: Matematika Diskrit
+[2026-07-23T23:10:50.047980] [SUCCESS] [IF1220] Found 27 course materials
+[2026-07-23T23:10:50.048040] [SUCCESS] [IF1220] Found 6 assignments
+[2026-07-23T23:10:50.048141] [ INFO  ] [IF1220] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/MakalahMatdis2025.htm
+[2026-07-23T23:10:50.945930] [ INFO  ] [IF1220] Found 148 PDFs in paper list
+[2026-07-23T23:10:50.946079] [ INFO  ] [IF1220] Processing 148 papers with 5 workers
+[2026-07-23T23:10:54.599104] [ INFO  ] [IF1220] Progress: 10/148 papers processed
+[2026-07-23T23:10:56.616742] [ INFO  ] [IF1220] Progress: 20/148 papers processed
+[2026-07-23T23:10:59.395946] [ INFO  ] [IF1220] Progress: 30/148 papers processed
+[2026-07-23T23:11:02.554079] [ INFO  ] [IF1220] Progress: 40/148 papers processed
+[2026-07-23T23:11:05.992000] [ INFO  ] [IF1220] Progress: 50/148 papers processed
+[2026-07-23T23:11:09.583637] [ INFO  ] [IF1220] Progress: 60/148 papers processed
+[2026-07-23T23:11:12.620334] [ INFO  ] [IF1220] Progress: 70/148 papers processed
+[2026-07-23T23:11:16.237159] [ INFO  ] [IF1220] Progress: 80/148 papers processed
+[2026-07-23T23:11:19.622092] [ INFO  ] [IF1220] Progress: 90/148 papers processed
+[2026-07-23T23:11:23.292441] [ INFO  ] [IF1220] Progress: 100/148 papers processed
+[2026-07-23T23:11:26.134748] [ INFO  ] [IF1220] Progress: 110/148 papers processed
+[2026-07-23T23:11:30.195541] [ INFO  ] [IF1220] Progress: 120/148 papers processed
+[2026-07-23T23:11:32.889540] [ INFO  ] [IF1220] Progress: 130/148 papers processed
+[2026-07-23T23:11:36.920298] [ INFO  ] [IF1220] Progress: 140/148 papers processed
+[2026-07-23T23:11:39.907091] [SUCCESS] [IF1220] Found 148 papers
+[2026-07-23T23:11:39.907265] [ INFO  ] [IF1220] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Nilai-akhir-IF1220-Matdis-2025-2.htm
+[2026-07-23T23:11:41.415040] [ INFO  ] [IF1220] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Nilai-akhir-IF1220-Matdis-2025-2_files/sheet001.htm
+[2026-07-23T23:11:42.733775] [SUCCESS] [IF1220] Parsed 155 student grades
+[2026-07-23T23:11:42.739527] [ INFO  ] Crawling IF2120 year 2024/2025
+[2026-07-23T23:11:42.739695] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2024/2025)
+[2026-07-23T23:11:43.786828] [ INFO  ] [IF2120] Detected dynamic course code: IF1220 (was IF2120)
+[2026-07-23T23:11:43.882820] [ INFO  ] [IF1220] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Info-Matdis-2024.pdf
+[2026-07-23T23:11:44.645300] [SUCCESS] [IF1220] Parsed course info: Matematika Diskrit
+[2026-07-23T23:11:44.645528] [SUCCESS] [IF1220] Found 27 course materials
+[2026-07-23T23:11:44.645572] [SUCCESS] [IF1220] Found 6 assignments
+[2026-07-23T23:11:44.645602] [ INFO  ] [IF1220] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/MakalahMatdis2024.htm
+[2026-07-23T23:11:45.514494] [ INFO  ] [IF1220] Found 172 PDFs in paper list
+[2026-07-23T23:11:45.514783] [ INFO  ] [IF1220] Processing 172 papers with 5 workers
+[2026-07-23T23:11:48.708309] [ INFO  ] [IF1220] Progress: 10/172 papers processed
+[2026-07-23T23:11:51.211488] [ INFO  ] [IF1220] Progress: 20/172 papers processed
+[2026-07-23T23:11:54.157086] [ INFO  ] [IF1220] Progress: 30/172 papers processed
+[2026-07-23T23:11:57.042869] [ INFO  ] [IF1220] Progress: 40/172 papers processed
+[2026-07-23T23:12:00.007790] [ INFO  ] [IF1220] Progress: 50/172 papers processed
+[2026-07-23T23:12:02.533813] [ INFO  ] [IF1220] Progress: 60/172 papers processed
+[2026-07-23T23:12:05.329662] [ INFO  ] [IF1220] Progress: 70/172 papers processed
+[2026-07-23T23:12:07.717682] [ INFO  ] [IF1220] Progress: 80/172 papers processed
+[2026-07-23T23:12:10.648698] [ INFO  ] [IF1220] Progress: 90/172 papers processed
+[2026-07-23T23:12:14.213098] [ INFO  ] [IF1220] Progress: 100/172 papers processed
+[2026-07-23T23:12:16.502364] [ INFO  ] [IF1220] Progress: 110/172 papers processed
+[2026-07-23T23:12:19.328632] [ INFO  ] [IF1220] Progress: 120/172 papers processed
+[2026-07-23T23:12:21.486527] [ INFO  ] [IF1220] Progress: 130/172 papers processed
+[2026-07-23T23:12:24.301647] [ INFO  ] [IF1220] Progress: 140/172 papers processed
+[2026-07-23T23:12:26.650781] [ INFO  ] [IF1220] Progress: 150/172 papers processed
+[2026-07-23T23:12:29.348193] [ INFO  ] [IF1220] Progress: 160/172 papers processed
+[2026-07-23T23:12:31.604885] [ INFO  ] [IF1220] Progress: 170/172 papers processed
+[2026-07-23T23:12:32.053575] [SUCCESS] [IF1220] Found 172 papers
+[2026-07-23T23:12:32.053757] [ INFO  ] [IF1220] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Nilai-akhir-IF1220-Matdis-2024.htm
+[2026-07-23T23:12:33.067032] [ INFO  ] [IF1220] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Nilai-akhir-IF1220-Matdis-2024_files/sheet001.htm
+[2026-07-23T23:12:34.276995] [SUCCESS] [IF1220] Parsed 171 student grades
+[2026-07-23T23:12:34.281027] [ INFO  ] Crawling IF2120 year 2023/2024
+[2026-07-23T23:12:34.281205] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2023/2024)
+[2026-07-23T23:12:35.958782] [ INFO  ] [IF2120] Detected dynamic course code: IF2120 (was IF2120)
+[2026-07-23T23:12:36.038799] [ INFO  ] [IF2120] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Info-Matdis-2023.pdf
+[2026-07-23T23:12:37.402422] [SUCCESS] [IF2120] Parsed course info: Matematika Diskrit
+[2026-07-23T23:12:37.404288] [SUCCESS] [IF2120] Found 28 course materials
+[2026-07-23T23:12:37.404657] [SUCCESS] [IF2120] Found 6 assignments
+[2026-07-23T23:12:37.404786] [ INFO  ] [IF2120] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/MakalahMatdis2023.htm
+[2026-07-23T23:12:38.032463] [ INFO  ] [IF2120] Found 162 PDFs in paper list
+[2026-07-23T23:12:38.033230] [ INFO  ] [IF2120] Processing 162 papers with 5 workers
+[2026-07-23T23:12:41.829980] [ INFO  ] [IF2120] Progress: 10/162 papers processed
+[2026-07-23T23:12:44.545248] [ INFO  ] [IF2120] Progress: 20/162 papers processed
+[2026-07-23T23:12:46.783407] [ INFO  ] [IF2120] Progress: 30/162 papers processed
+[2026-07-23T23:12:49.890840] [ INFO  ] [IF2120] Progress: 40/162 papers processed
+[2026-07-23T23:12:52.912503] [ INFO  ] [IF2120] Progress: 50/162 papers processed
+[2026-07-23T23:12:57.430556] [ INFO  ] [IF2120] Progress: 60/162 papers processed
+[2026-07-23T23:13:03.050818] [ INFO  ] [IF2120] Progress: 70/162 papers processed
+[2026-07-23T23:13:05.661580] [ INFO  ] [IF2120] Progress: 80/162 papers processed
+[2026-07-23T23:13:08.247277] [ INFO  ] [IF2120] Progress: 90/162 papers processed
+[2026-07-23T23:13:11.076867] [ INFO  ] [IF2120] Progress: 100/162 papers processed
+[2026-07-23T23:13:13.756662] [ INFO  ] [IF2120] Progress: 110/162 papers processed
+[2026-07-23T23:13:17.451741] [ INFO  ] [IF2120] Progress: 120/162 papers processed
+[2026-07-23T23:13:20.017346] [ INFO  ] [IF2120] Progress: 130/162 papers processed
+[2026-07-23T23:13:23.460102] [ INFO  ] [IF2120] Progress: 140/162 papers processed
+[2026-07-23T23:13:27.384732] [ INFO  ] [IF2120] Progress: 150/162 papers processed
+[2026-07-23T23:13:32.731734] [ INFO  ] [IF2120] Progress: 160/162 papers processed
+[2026-07-23T23:13:33.759221] [SUCCESS] [IF2120] Found 162 papers
+[2026-07-23T23:13:33.759336] [ INFO  ] [IF2120] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Nilai-akhir-IF2120-Matdis-2023.htm
+[2026-07-23T23:13:35.141753] [ INFO  ] [IF2120] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Nilai-akhir-IF2120-Matdis-2023_files/sheet001.htm
+[2026-07-23T23:13:36.134997] [SUCCESS] [IF2120] Parsed 165 student grades
+[2026-07-23T23:13:36.140457] [ INFO  ] Crawling IF2120 year 2022/2023
+[2026-07-23T23:13:36.140687] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2022/2023)
+[2026-07-23T23:13:37.737504] [ INFO  ] [IF2120] Detected dynamic course code: IF2120 (was IF2120)
+[2026-07-23T23:13:37.859494] [ INFO  ] [IF2120] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Info-Matdis-2022.pdf
+[2026-07-23T23:13:39.256290] [SUCCESS] [IF2120] Parsed course info: Matematika Diskrit
+[2026-07-23T23:13:39.258164] [SUCCESS] [IF2120] Found 27 course materials
+[2026-07-23T23:13:39.260091] [SUCCESS] [IF2120] Found 6 assignments
+[2026-07-23T23:13:39.262073] [ INFO  ] [IF2120] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/MakalahMatdis2022.htm
+[2026-07-23T23:13:40.092050] [ INFO  ] [IF2120] Found 162 PDFs in paper list
+[2026-07-23T23:13:40.092866] [ INFO  ] [IF2120] Processing 162 papers with 5 workers
+[2026-07-23T23:13:43.142712] [ INFO  ] [IF2120] Progress: 10/162 papers processed
+[2026-07-23T23:13:45.706585] [ INFO  ] [IF2120] Progress: 20/162 papers processed
+[2026-07-23T23:13:48.590345] [ INFO  ] [IF2120] Progress: 30/162 papers processed
+[2026-07-23T23:13:51.838984] [ INFO  ] [IF2120] Progress: 40/162 papers processed
+[2026-07-23T23:13:55.203572] [ INFO  ] [IF2120] Progress: 50/162 papers processed
+[2026-07-23T23:13:59.342790] [ INFO  ] [IF2120] Progress: 60/162 papers processed
+[2026-07-23T23:14:03.594769] [ INFO  ] [IF2120] Progress: 70/162 papers processed
+[2026-07-23T23:14:06.581052] [ INFO  ] [IF2120] Progress: 80/162 papers processed
+[2026-07-23T23:14:09.811378] [ INFO  ] [IF2120] Progress: 90/162 papers processed
+[2026-07-23T23:14:13.552843] [ INFO  ] [IF2120] Progress: 100/162 papers processed
+[2026-07-23T23:14:16.743509] [ INFO  ] [IF2120] Progress: 110/162 papers processed
+[2026-07-23T23:14:20.109707] [ INFO  ] [IF2120] Progress: 120/162 papers processed
+[2026-07-23T23:14:23.390982] [ INFO  ] [IF2120] Progress: 130/162 papers processed
+[2026-07-23T23:14:26.054711] [ INFO  ] [IF2120] Progress: 140/162 papers processed
+[2026-07-23T23:14:28.872209] [ INFO  ] [IF2120] Progress: 150/162 papers processed
+[2026-07-23T23:14:31.958708] [ INFO  ] [IF2120] Progress: 160/162 papers processed
+[2026-07-23T23:14:32.809349] [SUCCESS] [IF2120] Found 162 papers
+[2026-07-23T23:14:32.809495] [ INFO  ] [IF2120] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Nilai-akhir-IF2120-Matdis-2022.htm
+[2026-07-23T23:14:34.000651] [ INFO  ] [IF2120] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Nilai-akhir-IF2120-Matdis-2022_files/sheet001.htm
+[2026-07-23T23:14:34.932529] [SUCCESS] [IF2120] Parsed 166 student grades
+[2026-07-23T23:14:34.937453] [ INFO  ] Crawling IF2120 year 2021/2022
+[2026-07-23T23:14:34.937830] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2021/2022)
+[2026-07-23T23:14:36.516443] [ INFO  ] [IF2120] Detected dynamic course code: IF2120 (was IF2120)
+[2026-07-23T23:14:36.656127] [ INFO  ] [IF2120] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Info-Matdis-2021.pdf
+[2026-07-23T23:14:38.066527] [SUCCESS] [IF2120] Parsed course info: Matematika Diskrit
+[2026-07-23T23:14:38.066639] [SUCCESS] [IF2120] Found 27 course materials
+[2026-07-23T23:14:38.066664] [SUCCESS] [IF2120] Found 4 assignments
+[2026-07-23T23:14:38.066683] [ INFO  ] [IF2120] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/MakalahMatdis2021.htm
+[2026-07-23T23:14:39.104098] [ INFO  ] [IF2120] Found 172 PDFs in paper list
+[2026-07-23T23:14:39.104513] [ INFO  ] [IF2120] Processing 172 papers with 5 workers
+[2026-07-23T23:14:42.389652] [ INFO  ] [IF2120] Progress: 10/172 papers processed
+[2026-07-23T23:14:45.026472] [ INFO  ] [IF2120] Progress: 20/172 papers processed
+[2026-07-23T23:14:47.896978] [ INFO  ] [IF2120] Progress: 30/172 papers processed
+[2026-07-23T23:14:50.424508] [ INFO  ] [IF2120] Progress: 40/172 papers processed
+[2026-07-23T23:14:53.203854] [ INFO  ] [IF2120] Progress: 50/172 papers processed
+[2026-07-23T23:14:56.061781] [ INFO  ] [IF2120] Progress: 60/172 papers processed
+[2026-07-23T23:14:59.033944] [ INFO  ] [IF2120] Progress: 70/172 papers processed
+[2026-07-23T23:15:01.871308] [ INFO  ] [IF2120] Progress: 80/172 papers processed
+[2026-07-23T23:15:04.675321] [ INFO  ] [IF2120] Progress: 90/172 papers processed
+[2026-07-23T23:15:07.343417] [ INFO  ] [IF2120] Progress: 100/172 papers processed
+[2026-07-23T23:15:10.773370] [ INFO  ] [IF2120] Progress: 110/172 papers processed
+[2026-07-23T23:15:13.260525] [ INFO  ] [IF2120] Progress: 120/172 papers processed
+[2026-07-23T23:15:15.860023] [ INFO  ] [IF2120] Progress: 130/172 papers processed
+[2026-07-23T23:15:18.532324] [ INFO  ] [IF2120] Progress: 140/172 papers processed
+[2026-07-23T23:15:21.126833] [ INFO  ] [IF2120] Progress: 150/172 papers processed
+[2026-07-23T23:15:23.681546] [ INFO  ] [IF2120] Progress: 160/172 papers processed
+[2026-07-23T23:15:26.277323] [ INFO  ] [IF2120] Progress: 170/172 papers processed
+[2026-07-23T23:15:26.940131] [SUCCESS] [IF2120] Found 172 papers
+[2026-07-23T23:15:26.940304] [ INFO  ] [IF2120] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Nilai-Akhir-Matdis-2021.htm
+[2026-07-23T23:15:27.674597] [ INFO  ] [IF2120] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Nilai-Akhir-Matdis-2021_files/sheet001.htm
+[2026-07-23T23:15:28.828659] [SUCCESS] [IF2120] Parsed 172 student grades
+[2026-07-23T23:15:28.832624] [ INFO  ] Crawling IF2120 year 2020/2021
+[2026-07-23T23:15:28.832792] [ INFO  ] [IF2120] Crawling Matematika Diskrit (2020/2021)
+[2026-07-23T23:15:30.213203] [ INFO  ] [IF2120] Detected dynamic course code: IF2120 (was IF2120)
+[2026-07-23T23:15:30.299609] [ INFO  ] [IF2120] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Info-Matdis-2020.pdf
+[2026-07-23T23:15:31.128862] [SUCCESS] [IF2120] Parsed course info: Matematika Diskrit
+[2026-07-23T23:15:31.129136] [SUCCESS] [IF2120] Found 27 course materials
+[2026-07-23T23:15:31.129226] [SUCCESS] [IF2120] Found 6 assignments
+[2026-07-23T23:15:31.129290] [ INFO  ] [IF2120] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/MakalahMatdis2020.htm
+[2026-07-23T23:15:32.626029] [ INFO  ] [IF2120] Found 216 PDFs in paper list
+[2026-07-23T23:15:32.626894] [ INFO  ] [IF2120] Processing 216 papers with 5 workers
+[2026-07-23T23:15:37.295494] [ INFO  ] [IF2120] Progress: 10/216 papers processed
+[2026-07-23T23:15:39.862395] [ INFO  ] [IF2120] Progress: 20/216 papers processed
+[2026-07-23T23:15:43.036762] [ INFO  ] [IF2120] Progress: 30/216 papers processed
+[2026-07-23T23:15:45.976969] [ INFO  ] [IF2120] Progress: 40/216 papers processed
+[2026-07-23T23:15:48.606907] [ INFO  ] [IF2120] Progress: 50/216 papers processed
+[2026-07-23T23:15:51.131351] [ INFO  ] [IF2120] Progress: 60/216 papers processed
+[2026-07-23T23:15:54.849497] [ INFO  ] [IF2120] Progress: 70/216 papers processed
+[2026-07-23T23:15:58.022804] [ INFO  ] [IF2120] Progress: 80/216 papers processed
+[2026-07-23T23:16:00.455229] [ INFO  ] [IF2120] Progress: 90/216 papers processed
+[2026-07-23T23:16:03.053072] [ INFO  ] [IF2120] Progress: 100/216 papers processed
+[2026-07-23T23:16:05.506142] [ INFO  ] [IF2120] Progress: 110/216 papers processed
+[2026-07-23T23:16:09.795792] [ INFO  ] [IF2120] Progress: 120/216 papers processed
+[2026-07-23T23:16:12.482021] [ INFO  ] [IF2120] Progress: 130/216 papers processed
+[2026-07-23T23:16:15.471573] [ INFO  ] [IF2120] Progress: 140/216 papers processed
+[2026-07-23T23:16:17.981483] [ INFO  ] [IF2120] Progress: 150/216 papers processed
+[2026-07-23T23:16:21.869629] [ INFO  ] [IF2120] Progress: 160/216 papers processed
+[2026-07-23T23:16:24.964311] [ INFO  ] [IF2120] Progress: 170/216 papers processed
+[2026-07-23T23:16:27.794724] [ INFO  ] [IF2120] Progress: 180/216 papers processed
+[2026-07-23T23:16:30.801395] [ INFO  ] [IF2120] Progress: 190/216 papers processed
+[2026-07-23T23:16:33.471930] [ INFO  ] [IF2120] Progress: 200/216 papers processed
+[2026-07-23T23:16:35.636109] [ INFO  ] [IF2120] Progress: 210/216 papers processed
+[2026-07-23T23:16:37.715080] [SUCCESS] [IF2120] Found 216 papers
+[2026-07-23T23:16:37.715190] [ INFO  ] [IF2120] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Nilai-Akhir-Matdis-2020-final-2.htm
+[2026-07-23T23:16:38.375077] [ INFO  ] [IF2120] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Nilai-Akhir-Matdis-2020-final-2_files/sheet001.htm
+[2026-07-23T23:16:39.782065] [SUCCESS] [IF2120] Parsed 224 student grades
+[2026-07-23T23:16:39.790839] [ INFO  ] Processing: Aljabar Linier dan Geometri (IF2123)
+[2026-07-23T23:16:41.297752] [ INFO  ] Found 6 valid years for IF2123
+[2026-07-23T23:16:41.298068] [ INFO  ] Crawling IF2123 year 2025/2026
+[2026-07-23T23:16:41.298265] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2025/2026)
+[2026-07-23T23:16:42.847458] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:16:42.929303] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Info-Algeo-2025.pdf
+[2026-07-23T23:16:43.949298] [SUCCESS] [IF2123] Parsed course info: Aljabar Linier dan Geometri
+[2026-07-23T23:16:43.949438] [SUCCESS] [IF2123] Found 32 course materials
+[2026-07-23T23:16:43.949470] [SUCCESS] [IF2123] Found 8 assignments
+[2026-07-23T23:16:43.949491] [ INFO  ] [IF2123] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/MakalahAlgeo2025.htm
+[2026-07-23T23:16:44.731724] [ INFO  ] [IF2123] Found 144 PDFs in paper list
+[2026-07-23T23:16:44.732342] [ INFO  ] [IF2123] Processing 144 papers with 5 workers
+[2026-07-23T23:16:48.014253] [ INFO  ] [IF2123] Progress: 10/144 papers processed
+[2026-07-23T23:16:50.355343] [ INFO  ] [IF2123] Progress: 20/144 papers processed
+[2026-07-23T23:16:52.427403] [ INFO  ] [IF2123] Progress: 30/144 papers processed
+[2026-07-23T23:16:55.309526] [ INFO  ] [IF2123] Progress: 40/144 papers processed
+[2026-07-23T23:16:58.262992] [ INFO  ] [IF2123] Progress: 50/144 papers processed
+[2026-07-23T23:17:01.138405] [ INFO  ] [IF2123] Progress: 60/144 papers processed
+[2026-07-23T23:17:03.209718] [ INFO  ] [IF2123] Progress: 70/144 papers processed
+[2026-07-23T23:17:07.095412] [ INFO  ] [IF2123] Progress: 80/144 papers processed
+[2026-07-23T23:17:10.837906] [ INFO  ] [IF2123] Progress: 90/144 papers processed
+[2026-07-23T23:17:15.499392] [ INFO  ] [IF2123] Progress: 100/144 papers processed
+[2026-07-23T23:17:19.295136] [ INFO  ] [IF2123] Progress: 110/144 papers processed
+[2026-07-23T23:17:23.997988] [ INFO  ] [IF2123] Progress: 120/144 papers processed
+[2026-07-23T23:17:27.108204] [ INFO  ] [IF2123] Progress: 130/144 papers processed
+[2026-07-23T23:17:29.778885] [ INFO  ] [IF2123] Progress: 140/144 papers processed
+[2026-07-23T23:17:30.992536] [SUCCESS] [IF2123] Found 144 papers
+[2026-07-23T23:17:30.992878] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Nilai-Akhir-IF2123-Algeo-2025-v2.htm
+[2026-07-23T23:17:31.859644] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Nilai-Akhir-IF2123-Algeo-2025-v2_files/sheet001.htm
+[2026-07-23T23:17:33.249826] [SUCCESS] [IF2123] Parsed 149 student grades
+[2026-07-23T23:17:33.256802] [ INFO  ] Crawling IF2123 year 2024/2025
+[2026-07-23T23:17:33.257081] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2024/2025)
+[2026-07-23T23:17:34.796931] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:17:34.984198] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Info-Algeo-2024.pdf
+[2026-07-23T23:17:35.843797] [SUCCESS] [IF2123] Parsed course info: Aljabar Linier dan Geometri
+[2026-07-23T23:17:35.844321] [SUCCESS] [IF2123] Found 29 course materials
+[2026-07-23T23:17:35.844488] [SUCCESS] [IF2123] Found 7 assignments
+[2026-07-23T23:17:35.844582] [ INFO  ] [IF2123] Fetching paper list: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/MakalahAlgeo2024.htm
+[2026-07-23T23:17:36.931537] [ INFO  ] [IF2123] Found 162 PDFs in paper list
+[2026-07-23T23:17:36.932090] [ INFO  ] [IF2123] Processing 162 papers with 5 workers
+[2026-07-23T23:17:40.420004] [ INFO  ] [IF2123] Progress: 10/162 papers processed
+[2026-07-23T23:17:42.877607] [ INFO  ] [IF2123] Progress: 20/162 papers processed
+[2026-07-23T23:17:46.415021] [ INFO  ] [IF2123] Progress: 30/162 papers processed
+[2026-07-23T23:17:49.098202] [ INFO  ] [IF2123] Progress: 40/162 papers processed
+[2026-07-23T23:17:52.483101] [ INFO  ] [IF2123] Progress: 50/162 papers processed
+[2026-07-23T23:17:56.078812] [ INFO  ] [IF2123] Progress: 60/162 papers processed
+[2026-07-23T23:17:59.701248] [ INFO  ] [IF2123] Progress: 70/162 papers processed
+[2026-07-23T23:18:02.911472] [ INFO  ] [IF2123] Progress: 80/162 papers processed
+[2026-07-23T23:18:05.624896] [ INFO  ] [IF2123] Progress: 90/162 papers processed
+[2026-07-23T23:18:09.257546] [ INFO  ] [IF2123] Progress: 100/162 papers processed
+[2026-07-23T23:18:12.288046] [ INFO  ] [IF2123] Progress: 110/162 papers processed
+[2026-07-23T23:18:15.301504] [ INFO  ] [IF2123] Progress: 120/162 papers processed
+[2026-07-23T23:18:19.490438] [ INFO  ] [IF2123] Progress: 130/162 papers processed
+[2026-07-23T23:18:22.657896] [ INFO  ] [IF2123] Progress: 140/162 papers processed
+[2026-07-23T23:18:25.875794] [ INFO  ] [IF2123] Progress: 150/162 papers processed
+[2026-07-23T23:18:28.984987] [ INFO  ] [IF2123] Progress: 160/162 papers processed
+[2026-07-23T23:18:29.224646] [SUCCESS] [IF2123] Found 162 papers
+[2026-07-23T23:18:29.224837] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Nilai-Akhir-IF2123-Algeo-2024.htm
+[2026-07-23T23:18:30.188070] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Nilai-Akhir-IF2123-Algeo-2024_files/sheet001.htm
+[2026-07-23T23:18:31.730553] [SUCCESS] [IF2123] Parsed 164 student grades
+[2026-07-23T23:18:31.734629] [ INFO  ] Crawling IF2123 year 2023/2024
+[2026-07-23T23:18:31.734976] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2023/2024)
+[2026-07-23T23:18:33.170164] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:18:33.237281] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Info-Algeo-2023.pdf
+[2026-07-23T23:18:34.666320] [SUCCESS] [IF2123] Parsed course info: Aljabar Linier dan Geometri
+[2026-07-23T23:18:34.666559] [SUCCESS] [IF2123] Found 30 course materials
+[2026-07-23T23:18:34.666596] [SUCCESS] [IF2123] Found 7 assignments
+[2026-07-23T23:18:34.666618] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Nilai-Akhir-IF2123-Algeo-2023.htm
+[2026-07-23T23:18:35.778239] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Nilai-Akhir-IF2123-Algeo-2023_files/sheet001.htm
+[2026-07-23T23:18:36.996021] [SUCCESS] [IF2123] Parsed 164 student grades
+[2026-07-23T23:18:36.997194] [ INFO  ] Crawling IF2123 year 2022/2023
+[2026-07-23T23:18:36.997312] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2022/2023)
+[2026-07-23T23:18:38.260085] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:18:38.350727] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Info-Algeo-2022.pdf
+[2026-07-23T23:18:39.509964] [SUCCESS] [IF2123] Parsed course info: Aljabar Linier dan Geometri
+[2026-07-23T23:18:39.510103] [SUCCESS] [IF2123] Found 30 course materials
+[2026-07-23T23:18:39.510135] [SUCCESS] [IF2123] Found 10 assignments
+[2026-07-23T23:18:39.510157] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Nilai-Akhir-IF2123-Algeo-2022.htm
+[2026-07-23T23:18:40.782410] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Nilai-Akhir-IF2123-Algeo-2022_files/sheet001.htm
+[2026-07-23T23:18:41.829232] [SUCCESS] [IF2123] Parsed 164 student grades
+[2026-07-23T23:18:41.830446] [ INFO  ] Crawling IF2123 year 2021/2022
+[2026-07-23T23:18:41.830595] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2021/2022)
+[2026-07-23T23:18:43.302524] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:18:43.402645] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Info-Algeo-2021.pdf
+[2026-07-23T23:18:44.443054] [SUCCESS] [IF2123] Parsed course info: Aljabar Geometri
+[2026-07-23T23:18:44.443182] [SUCCESS] [IF2123] Found 28 course materials
+[2026-07-23T23:18:44.443306] [SUCCESS] [IF2123] Found 7 assignments
+[2026-07-23T23:18:44.443374] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Nilai-Akhir-Algeo-2021.htm
+[2026-07-23T23:18:45.566598] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Nilai-Akhir-Algeo-2021_files/sheet001.htm
+[2026-07-23T23:18:46.741669] [SUCCESS] [IF2123] Parsed 169 student grades
+[2026-07-23T23:18:46.742953] [ INFO  ] Crawling IF2123 year 2020/2021
+[2026-07-23T23:18:46.743073] [ INFO  ] [IF2123] Crawling Aljabar Linier dan Geometri (2020/2021)
+[2026-07-23T23:18:48.411490] [ INFO  ] [IF2123] Detected dynamic course code: IF2123 (was IF2123)
+[2026-07-23T23:18:48.487163] [ INFO  ] [IF2123] Downloading silabus PDF: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Info-Algeo-2020.pdf
+[2026-07-23T23:18:49.277415] [SUCCESS] [IF2123] Parsed course info: Aljabar Geometri
+[2026-07-23T23:18:49.278955] [SUCCESS] [IF2123] Found 26 course materials
+[2026-07-23T23:18:49.279045] [SUCCESS] [IF2123] Found 9 assignments
+[2026-07-23T23:18:49.279105] [ INFO  ] [IF2123] Fetching grades page: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Nilai-Akhir-Algeo-2020.htm
+[2026-07-23T23:18:50.577284] [ INFO  ] [IF2123] Following frame src: https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Nilai-Akhir-Algeo-2020_files/sheet001.htm
+[2026-07-23T23:18:52.073047] [SUCCESS] [IF2123] Parsed 225 student grades
+[2026-07-23T23:18:52.074095] [ INFO  ] ================================================================================
+[2026-07-23T23:18:52.074237] [ INFO  ] SAVING ALL COMBINED RESULTS...
+[2026-07-23T23:18:52.075670] [ INFO  ] [SUCCESS] Saved (ALL COURSES): data\courses_info.json (19 items)
+[2026-07-23T23:18:52.129856] [ INFO  ] [SUCCESS] Saved (ALL COURSES): data\courses_grades.json (19 items)
+[2026-07-23T23:18:52.138075] [ INFO  ] [SUCCESS] Saved (ALL COURSES): data\course_materials.json (544 items)
+[2026-07-23T23:18:52.139600] [ INFO  ] [SUCCESS] Saved (ALL COURSES): data\assignments.json (143 items)
+[2026-07-23T23:18:52.186833] [ INFO  ] [SUCCESS] Saved (ALL COURSES): data\paper_files.json (2535 items)
+[2026-07-23T23:18:52.187026] [ INFO  ] ================================================================================
+[2026-07-23T23:18:52.187100] [ INFO  ] SCRAPING COMPLETED
+[2026-07-23T23:18:52.187132] [ INFO  ] ================================================================================

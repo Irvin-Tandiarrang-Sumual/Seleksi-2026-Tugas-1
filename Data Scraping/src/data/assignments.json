@@ -1,0 +1,1432 @@
+[
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 1: Penyelesaian Permainan Queens Linkedin",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tucil1-IF2211-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 1: Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Battlecode 2025",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tubes1-Stima-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 2: Voxelization Objek 3D menggunakan Octree (dengan algoritma divide and conquer)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tucil2-IF2211-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 2: Pemanfaatan Algoritma BFS dan DFS dalam Mekanisme Penelusuran CSS pada pohon Document Object Model",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tubes2-Stima-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 3: Ice Sliding Puzzle Solver dengan Algoritma UCS, Greedy Best First, dan A*",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tucil3-IF2211-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 3: Implementasi Pattern Matching pada Chromium Browser Extension untuk Deteksi Judi Online",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Tubes3-Stima-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Soal-UTS-IF2211-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Soal-UAS-IF2211-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 1: Penyelesaian IQ Puzzler Pro dengan Algoritma Brute Force",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tucil1-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 1: Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tubes1-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 2: Penerapan Divide and Conquer untuk kompresi Gambar dengan Metode Quadtree",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tucil2-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 2: Pemanfaatan Algoritma BFS dan DFS dalam Pencarian Recipe pada Permainan Little Alchemy 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tubes2-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 3: Penyelesaian Puzzle Rush Hour Menggunakan Algoritma Pathfinding",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tucil3-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 3: Pemanfaatan Pattern Matching untuk Membangun Sistem ATS (Applicant Tracking System) Berbasis CV Digital",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Tubes3-Stima-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Soal-UTS-IF2211-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2024-2025/Soal-UAS-IF2211-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 1: Penyelesaian Cyberpunk 2077 Breach Protocol dengan Algoritma Brute Force",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil1-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 1: Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Diamonds",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tubes1-Stima-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 2: Membangun Kurva Bezier dengan Algoritma Titik Tengah berbasis Divide and Conquer",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil2-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 2: Pemanfaatan Algoritma IDS dan BFS dalam Permainan WikiRace",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tubes2-Stima-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 3: Penyelesaian Permainan Word Ladder Menggunakan Algoritma UCS, Greedy Best First Search, dan A*",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tucil3-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 3: Pemanfaatan Pattern Matching dalam Membangun Sistem Deteksi Individu Berbasis Biometrik Melalui Citra Sidik Jari",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Tubes3-Stima-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas makalah",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/TugasMakalah2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Soal-UTS-IF2211-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2023-2024/Soal-UAS-IF2211-2024.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 1: Penyelesaian Permainan Kartu 24 dengan Algoritma Brute Force",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tucil1-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 1: Pemanfaatan Algoritma Greedy dalam Aplikasi Permainan \"Galaxio\"",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tubes1-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 2: Mencari Pasangan Titik Terdekat 3D dengan Algoritma Divide and Conquer",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tucil2-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 2: Pengaplikasian Algoritma BFS dan DFS dalam Menyelesaikan Persoalan Maze Treasure Hunt",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tubes2-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas kecil 3: Implementasi Algoritma UCS dan A* untuk Menentukan Lintasan Terpendek",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tucil3-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas besar 3: Penerapan String Matching dan Regular Expression dalam Pembuatan ChatGPT Sederhana",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Tubes3-Stima-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas makalah",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/TugasMakalah2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Soal-UTS-IF2211-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2022-2023/Soal-UAS-IF2211-2023.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 1 (Tucil 1): Penyelesaian Word Search Puzzle dengan Algoritma Brute Force",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Kecil-1-(2022).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 1 (Tubes 1): Pemanfaatan Algoritma Greedy dalam Aplikasi Permainan \"Overdrive\"",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Besar-1-IF2211-Strategi-Algoritma-2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 2 (Tucil 2): Implementasi Convex Hull untuk Visualisasi Tes Linear Separability Dataset \r\n         dengan Algoritma Divide and Conquer",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Kecil-2-(2022).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 2 (Tubes 2): Pengaplikasian Algoritma BFS dan DFS dalam Implementasi Folder Crawling",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Besar-2-IF2211-Strategi-Algoritma-2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 3 (Tucil 3): Penyelesaian Persoalan 15-Puzzle dengan Algoritma Branch and Bound",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Kecil-3-(2022).pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 3 (Tubes 3): Penerapan String Matching dan Regular Expression dalam DNA Pattern Matching",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Tugas-Besar-3-IF2211-Strategi-Algoritma-2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas makalah",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/TugasMakalah2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Soal-UTS-IF2211-2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2021-2022/Soal-UAS-IF2211-2022.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 1 (Tucil 1): Penyelesaian Cryptarithmetic dengan Algoritma Brute Force",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Kecil-1-(2021).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 1 (Tubes 1): Pemanfaatan Algoritma Greedy dalam Aplikasi Permainan Worms",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Besar-1-IF2211-Strategi-Algoritma-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 2 (Tucil 2): Penyusunan Rencana Kuliah dengan Topological Sort (Penerapan Decrease and Conquer)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Kecil-2-(2021).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 2 (Tubes 2): Pengaplikasian Algoritma BFS dan DFS dalam Fitur People You May Know \r\n         Jejaring Sosial Facebook",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Besar-2-IF2211-Strategi-Algoritma-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Kecil 3 (Tucil 3): Implementasi Algoritma A* untuk Menentukan Lintasan Terpendek",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Kecil-3-(2021).pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas Besar 3 (Tubes 3): Penerapan String Matching dan Regular Expression dalam \r\n         Pembangunan Deadline Reminder Assistant",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Besar-3-IF2211-Strategi-Algoritma-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Tugas makalah",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/TugasMakalah2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal dan jawaban UTS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Soal-dan-jawaban-UTS-Stima-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Jawaban soal essay",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Jawaban-soal-essay.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Soal dan jawaban UAS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/UAS-Stima-2021.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Jawaban soal essay 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Jawaban-essay-1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2211",
+    "course_name": "Strategi Algoritma",
+    "title": "Jawaban soal essay 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Jawaban-essay-2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Logika, Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Kuis-1-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi matematika, aljabar boolean, sumasi-rekursi-dan-relasi rekurens",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Kuis-2-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/UTS-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori bilangan, kombinatorika",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Kuis-3-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/Kuis-4-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2025-2026/UAS-IF1220-2026.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Logika, Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Kuis-1-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi Matematika - Deretan, Rekursi, dan Relasi Rekurens - Aljabar Boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Kuis-2-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/UTS-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori Bilangan, Kombinatorika",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Kuis-3-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/Kuis-4-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025-2/UAS-IF1220-2025.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Logika, Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Kuis-1-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi matematika; Deretan, rekursif, dan relasi rekurens; Aljabar Boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Kuis-2-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/UTS-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori bilangan; Kombinatorika",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Kuis-3-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, pohon, kompleksitas algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Kuis-4-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF1220",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/UAS-IF1220-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Kuis-1-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi Matematika, Rekursi dan Relasi Rekurens, Aljabar Boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Kuis-2-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/UTS-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori Bilangan, Kombinatorial",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Kuis-3-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/Kuis-4-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2023-2024/UAS-IF2120-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Kuis-1-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi matematik, relasi rekurens, aljabar boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Kuis-2-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "UTS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/UTS-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori Bilangan, Kombinatorial",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Kuis-3-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/Kuis-4-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "UAS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2022-2023/UAS-IF2120-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Kuis1-Matdis-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi matematik, relasi rekurens, aljabar boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Kuis2-Matdis-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori Bilangan, Kombinatorial",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Kuis3-Matdis-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2021-2022/Kuis4-Matdis-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 1: Himpunan, Relasi dan Fungsi",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kuis-1-IF2120-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 2: Induksi Matematika, Relasi Rekurens, Aljabar Boolean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kuis-2-IF2120-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Soal UTS dan kunci jawabannya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Soal-UTS-Matdis-2020-dan-jawabannya.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 3: Teori Bilangan, Kombinatorial",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kuis-3-IF2120-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Kuis 4: Graf, Pohon, dan Kompleksitas Algoritma",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/Kuis-4-IF2120-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2120",
+    "course_name": "Matematika Diskrit",
+    "title": "Soal UAS dan kunci jawabannya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2020-2021/UAS-IF2120-Matematika-Diskrit.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1: Sistem Persamaan Linier, Determinan, dan Penerapannya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Tubes1-IF2123-Algeo-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2: EigenPustaka: Sistem Perpustakaan Digital dengan Rekomendasi\r\nSemantik dan Pencarian Visual Berbasis SVD",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Tubes2-IF2123-Algeo-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas makalah",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/TugasMakalahAlgeo2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 1 (Matriks, sistem persamaan linier, dan determinan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Kuis-1-IF2123-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 2 (Vektor di ruang euclidean, Ruang vektor umum",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Kuis-2-IF2123-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/UTS-IF2123-Algeo-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 3 (Nilai eigen dan vektor eigen, dekomposisi matriks (SVD, LU, QR), aljabar kompleks, aljabar quaternion",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/Kuis-3-IF2123-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2025-2026/UAS-IF2123-Algeo-2025.pdf",
+    "academic_year": {
+      "start_year": 2025,
+      "end_year": 2026
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1 (Sistem Persamaan Linier, Determinan, dan Aplikasinya)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Tubes1-IF2123-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2 (Image Retrieval dan Music Information Retrieval Menggunakan PCA dan Vektor)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Tubes2-IF2123-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 1 (Matriks, sistem persamaan linier, dan determinan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Kuis-1-IF2123-2024-v2.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 2 (Vektor di ruang Euclidean, Ruang vektor umum)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Kuis-2-IF2123-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 3 (Nilai eigen dan vektor eigen, SVD, LU, QR, aljabar kompleks, aljabar quaternion)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/Kuis-3-IF2123-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ujian Tengah Semester (UTS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/UTS-IF2123-Algeo-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Ujian Akhir Semester (UAS)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2024-2025/UAS-IF2123-Algeo-2024.pdf",
+    "academic_year": {
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1 (Sistem Persamaan Linier, Determinan, dan Aplikasinya)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Tubes1-IF2123-Algeo-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2 (Aplikasi Aljabar Vektor dalam Sistem Temu Balik Gambar)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Tubes2-IF2123-Algeo-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 1 (Matriks, sistem persamaan linier, dan determinan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Kuis-1-IF2123-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 2 (Vektor di ruang Euclidean)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Kuis-2-IF2123-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "UTS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/UTS-IF2123-Algeo-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 3 (Nilai eigen dan vektor eigen, SVD, dekomposisi LU, bilangan kompleks, aljabar quaternion)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/Kuis-3-IF2123-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "UAS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2023-2024/UAS-IF2123-Algeo-2023.pdf",
+    "academic_year": {
+      "start_year": 2023,
+      "end_year": 2024
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1 (Sistem Persamaan Linier, Determinan, dan Aplikasinya)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Tubes1-Algeo-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2 (Aplikasi Nilai Eigen dan EigenFace pada Pengenalan Wajah (Face Recognition))",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Tubes2-Algeo-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 1 (Matriks, sistem persamaan linier, dan determinan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Kuis1-Algeo-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 2 (Vektor di ruang Euclidean, Ruang vektor umum)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Kuis2-Algeo-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal UTS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Soal-UTS-Aljabar-Linier-dan-Geometri-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Jawaban Soal UTS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Jawaban-Soal-UTS-Aljabar-Linier-dan-Geometri-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 3 (Nilai eigen dan vektor eigen, Singular Value Decomposition (SVD), LU Decomposition, Albar Kompleks, Aljabar Quaternion)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Kuis3-Algeo-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal UAS",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Soal-UAS-Aljabar-Linier-dan-Geometri-2022.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Jawaban Soal UAS bagian pilihan ganda",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Jawaban-Soal-UAS-Aljabar-Linier-dan-Geometri-2022-pg.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Jawaban Soal UAS bagian essay",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2022-2023/Jawaban-soal-UAS-2022-essay.pdf",
+    "academic_year": {
+      "start_year": 2022,
+      "end_year": 2023
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1 (Sistem Persamaan Linier, Determinan, dan Aplikasinya)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Tubes1-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2 (Aplikasi Singular Value Decomposition - SVD - dalam Kompresi Gambar)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Tubes2-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 1 (Matriks, sistem persamaan linier, dan determinan)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Kuis1-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 2 (Vektor di ruang euclidean, ruang vektor umum)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Kuis2-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal UTS dan kunci jawabannya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/UTS-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal kuis 3 (Vektor dan nilai eigen, singular value decomposition (SVD), aljabar quaternion)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/Kuis3-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal UAS dan kunci jawabannya",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2021-2022/UAS-Algeo-2021.pdf",
+    "academic_year": {
+      "start_year": 2021,
+      "end_year": 2022
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Tubes1-Algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Tugas Besar 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Tubes2-Algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 1: Matriks, sistem persamaan linier, determinan",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Kuis1-algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 2: Vektor di ruang Euclidean",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Kuis2-algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "UTS (beserta kunci jawabannya)",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/UTS-Algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Kuis 3: Quaternion, nilai eigen dan vektor eigen",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Kuis3-algeo-2020.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal dan kunci jawaban UAS - Bagian 1",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Soal-UAS-Bag1.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal dan kunci jawaban UAS - Bagian 2",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Soal-UAS-Bag2.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  },
+  {
+    "course_code": "IF2123",
+    "course_name": "Aljabar Linier dan Geometri",
+    "title": "Soal dan kunci jawaban UAS - Bagian 3",
+    "url": "https://informatika.stei.itb.ac.id/~rinaldi.munir/AljabarGeometri/2020-2021/Soal-UAS-Bag3.pdf",
+    "academic_year": {
+      "start_year": 2020,
+      "end_year": 2021
+    }
+  }
+]
